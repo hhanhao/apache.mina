@@ -1,0 +1,704 @@
+2017-07-26 14:18:50,637 - log4j======
+2017-07-26 15:01:48,480 - "Mina Server run done! on port:"+bindPort
+2017-07-26 15:02:13,329 - new client created
+2017-07-26 15:03:43,719 - counted a exception
+2017-07-26 15:03:46,755 - counted a exception
+2017-07-26 15:03:53,829 - counted a exception
+2017-07-26 15:03:57,577 - counted a exception
+2017-07-26 15:04:28,732 - Mina Server run done! on port:9988
+2017-07-26 15:04:35,503 - new client created
+2017-07-26 15:04:47,920 - Mina Server run done! on port:9988
+2017-07-26 15:04:47,920 - Mina Server run done! on port:9988
+2017-07-26 15:04:47,921 - Mina Server run done! on port:9988
+2017-07-26 15:04:47,921 - Mina Server run done! on port:9988
+2017-07-26 15:05:17,007 - Mina Server run done! on port:9988
+2017-07-26 15:05:17,008 - Mina Server run done! on port:9988
+2017-07-26 15:05:17,008 - Mina Server run done! on port:9988
+2017-07-26 15:05:17,008 - Mina Server run done! on port:9988
+2017-07-26 15:05:22,636 - new client created
+2017-07-26 15:05:36,036 - inputClosed
+2017-07-26 15:05:36,044 - sessionClosed
+2017-07-26 15:20:30,185 - new client created
+2017-07-26 15:20:30,198 - new client created
+2017-07-26 15:22:44,984 - counted a exception
+2017-07-26 15:22:44,985 - sessionClosed
+2017-07-26 15:22:51,424 - new client created
+2017-07-26 15:22:51,451 - messageReceived
+2017-07-26 15:22:51,451 - ho.nameHimi
+2017-07-26 15:22:51,456 - messageSenttest.mina.HimiObject@69e8c998
+2017-07-26 15:26:52,578 - new client created
+2017-07-26 15:26:52,599 - messageReceived
+2017-07-26 15:26:52,599 - ho.nameHimi
+2017-07-26 15:26:52,600 - messageSenttest.mina.HimiObject@40334c25
+2017-07-26 15:28:03,035 - new client created
+2017-07-26 15:28:03,056 - messageReceived
+2017-07-26 15:28:03,056 - ho.nameHimi
+2017-07-26 15:28:03,057 - messageSenttest.mina.HimiObject@4ec44deb
+2017-07-26 15:44:58,114 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 15:44:58,114 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 15:44:58,114 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 15:45:14,710 - Mina Server run done! on port:9988
+2017-07-26 15:45:14,711 - Mina Server run done! on port:9988
+2017-07-26 15:45:14,711 - Mina Server run done! on port:9988
+2017-07-26 15:45:14,711 - Mina Server run done! on port:9988
+2017-07-26 15:45:22,192 - new client created
+2017-07-26 15:45:22,214 - messageReceived
+2017-07-26 15:45:22,214 - ho.nameHimi
+2017-07-26 15:45:22,220 - messageSenttest.mina.HimiObject@65ac6103
+2017-07-26 15:48:10,434 - new client created
+2017-07-26 15:48:10,456 - messageReceived
+2017-07-26 15:48:10,456 - ho.nameHimi
+2017-07-26 15:48:10,456 - messageSenttest.mina.HimiObject@51b1373d
+2017-07-26 15:48:18,846 - counted a exception
+2017-07-26 15:48:18,847 - sessionClosed
+2017-07-26 15:49:22,032 - counted a exception
+2017-07-26 15:49:22,033 - sessionClosed
+2017-07-26 15:50:03,973 - Mina Server run done! on port:9988
+2017-07-26 15:50:03,973 - Mina Server run done! on port:9988
+2017-07-26 15:50:03,973 - Mina Server run done! on port:9988
+2017-07-26 15:50:03,973 - Mina Server run done! on port:9988
+2017-07-26 15:50:16,006 - new client created
+2017-07-26 15:50:18,029 - messageReceived
+2017-07-26 15:50:18,030 - ho.nameHimi
+2017-07-26 15:50:18,041 - messageSenttest.mina.HimiObject@6d9ebfd1
+2017-07-26 15:52:29,255 - new client created
+2017-07-26 15:52:31,256 - messageReceived
+2017-07-26 15:52:31,257 - ho.nameHimi
+2017-07-26 15:52:31,258 - messageSenttest.mina.HimiObject@4db4b88d
+2017-07-26 15:52:47,644 - new client created
+2017-07-26 15:52:49,645 - messageReceived
+2017-07-26 15:52:49,646 - ho.nameHimi
+2017-07-26 15:52:49,646 - messageSenttest.mina.HimiObject@1615b33b
+2017-07-26 15:53:21,883 - new client created
+2017-07-26 15:53:23,885 - messageReceived
+2017-07-26 15:53:23,885 - ho.nameHimi
+2017-07-26 15:53:23,886 - messageSenttest.mina.HimiObject@40334c25
+2017-07-26 15:54:06,134 - new client created
+2017-07-26 15:54:08,135 - messageReceived
+2017-07-26 15:54:08,135 - ho.nameHimi
+2017-07-26 15:54:08,137 - messageSenttest.mina.HimiObject@4ec44deb
+2017-07-26 15:54:22,015 - counted a exception
+2017-07-26 15:54:22,017 - sessionClosed
+2017-07-26 15:54:22,994 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 15:54:22,994 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 15:54:22,994 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 15:54:22,994 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 15:54:41,171 - Mina Server run done! on port:9988
+2017-07-26 15:54:41,172 - Mina Server run done! on port:9988
+2017-07-26 15:54:41,172 - Mina Server run done! on port:9988
+2017-07-26 15:54:41,172 - Mina Server run done! on port:9988
+2017-07-26 15:54:53,616 - new client created
+2017-07-26 15:54:55,641 - messageReceived
+2017-07-26 15:54:55,641 - ho.nameHimi
+2017-07-26 15:54:55,656 - messageSenttest.mina.HimiObject@21093d9e
+2017-07-26 15:56:25,730 - counted a exception
+2017-07-26 15:56:25,731 - sessionClosed
+2017-07-26 15:57:03,414 - Server mina start error
+java.io.IOException: Error while binding on 0.0.0.0/0.0.0.0:9988
+original message : Address already in use: bind
+	at org.apache.mina.transport.socket.nio.NioSocketAcceptor.open(NioSocketAcceptor.java:238)
+	at org.apache.mina.transport.socket.nio.NioSocketAcceptor.open(NioSocketAcceptor.java:51)
+	at org.apache.mina.core.polling.AbstractPollingIoAcceptor.registerHandles(AbstractPollingIoAcceptor.java:586)
+	at org.apache.mina.core.polling.AbstractPollingIoAcceptor.access$400(AbstractPollingIoAcceptor.java:71)
+	at org.apache.mina.core.polling.AbstractPollingIoAcceptor$Acceptor.run(AbstractPollingIoAcceptor.java:454)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 15:57:03,416 - Mina Server run done! on port:9988
+2017-07-26 15:57:03,416 - Mina Server run done! on port:9988
+2017-07-26 15:57:03,417 - Mina Server run done! on port:9988
+2017-07-26 15:57:03,417 - Mina Server run done! on port:9988
+2017-07-26 15:57:20,142 - Mina Server run done! on port:9988
+2017-07-26 15:57:20,143 - Mina Server run done! on port:9988
+2017-07-26 15:57:20,143 - Mina Server run done! on port:9988
+2017-07-26 15:57:20,143 - Mina Server run done! on port:9988
+2017-07-26 15:57:23,241 - new client created
+2017-07-26 15:57:25,256 - messageReceived
+2017-07-26 15:57:25,256 - ho.nameHimi
+2017-07-26 15:57:25,266 - messageSenttest.mina.HimiObject@51436a90
+2017-07-26 15:57:45,696 - new client created
+2017-07-26 15:57:47,697 - messageReceived
+2017-07-26 15:57:47,697 - ho.nameHimi
+2017-07-26 15:57:47,698 - messageSenttest.mina.HimiObject@13c058d6
+2017-07-26 16:01:00,781 - new client created
+2017-07-26 16:01:00,793 - connect is success
+2017-07-26 16:01:02,783 - messageReceived
+2017-07-26 16:01:02,784 - ho.nameHimi
+2017-07-26 16:01:02,785 - messageSenttest.mina.HimiObject@6aa9f1d0
+2017-07-26 16:01:13,986 - new client created
+2017-07-26 16:01:14,000 - connect is success
+2017-07-26 16:01:15,987 - messageReceived
+2017-07-26 16:01:15,987 - ho.nameHimi
+2017-07-26 16:01:15,989 - messageSenttest.mina.HimiObject@67cc3210
+2017-07-26 16:06:58,129 - connect is success
+2017-07-26 16:07:23,557 - connect is success
+2017-07-26 16:07:38,574 - new client created
+2017-07-26 16:07:38,587 - connect is success
+2017-07-26 16:07:40,576 - messageReceived
+2017-07-26 16:07:40,576 - ho.nameHimi
+2017-07-26 16:07:40,577 - messageSenttest.mina.HimiObject@39d7a7b3
+2017-07-26 16:21:35,630 - counted a exception
+2017-07-26 16:21:35,631 - sessionClosed
+2017-07-26 16:21:36,302 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 16:21:36,302 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 16:21:36,302 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 16:21:36,310 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 16:21:45,191 - Mina Server run done! on port:9988
+2017-07-26 16:21:45,192 - Mina Server run done! on port:9988
+2017-07-26 16:21:45,192 - Mina Server run done! on port:9988
+2017-07-26 16:21:45,192 - Mina Server run done! on port:9988
+2017-07-26 16:21:48,364 - new client created
+2017-07-26 16:21:48,369 - connect is success
+2017-07-26 16:21:48,378 - write error
+2017-07-26 16:21:50,388 - messageReceived
+2017-07-26 16:21:50,389 - ho.nameHimi
+2017-07-26 16:21:50,403 - messageReceived
+2017-07-26 16:21:50,403 - ho.namehanhao
+2017-07-26 16:21:50,405 - messageSenttest.mina.HimiObject@63560d4c
+2017-07-26 16:21:50,406 - messageSenttest.mina.HimiObject@35f310c8
+2017-07-26 16:28:20,655 - new client created
+2017-07-26 16:28:20,668 - connect is success
+2017-07-26 16:28:20,678 - write info sucess
+2017-07-26 16:28:20,678 - this is equal
+2017-07-26 16:28:22,659 - messageReceived
+2017-07-26 16:28:22,659 - ho.namehanhao
+2017-07-26 16:28:22,660 - messageReceived
+2017-07-26 16:28:22,660 - ho.nameHimi
+2017-07-26 16:28:22,661 - messageSenttest.mina.HimiObject@462d62d9
+2017-07-26 16:28:22,662 - messageSenttest.mina.HimiObject@4db4b88d
+2017-07-26 16:29:32,623 - new client created
+2017-07-26 16:29:32,635 - connect is success
+2017-07-26 16:29:32,646 - write info sucess
+2017-07-26 16:29:32,646 - this is equal
+2017-07-26 16:29:34,626 - messageReceived
+2017-07-26 16:29:34,626 - ho.namehanhao
+2017-07-26 16:29:34,627 - messageReceived
+2017-07-26 16:29:34,627 - ho.nameHimi
+2017-07-26 16:29:34,628 - messageSenttest.mina.HimiObject@6aa9f1d0
+2017-07-26 16:29:34,629 - messageSenttest.mina.HimiObject@3b42c565
+2017-07-26 16:30:59,180 - new client created
+2017-07-26 16:30:59,193 - connect is success
+2017-07-26 16:30:59,202 - write info sucess
+2017-07-26 16:30:59,202 - this is equal
+2017-07-26 16:31:01,182 - messageReceived
+2017-07-26 16:31:01,183 - ho.namehanhao
+2017-07-26 16:31:01,184 - messageReceived
+2017-07-26 16:31:01,185 - ho.nameHimi
+2017-07-26 16:31:01,186 - messageSenttest.mina.HimiObject@eeaedad
+2017-07-26 16:31:01,187 - messageSenttest.mina.HimiObject@619a0081
+2017-07-26 16:31:29,712 - new client created
+2017-07-26 16:31:29,717 - connect is error
+2017-07-26 16:31:31,716 - messageReceived
+2017-07-26 16:31:31,716 - ho.nameHimi
+2017-07-26 16:31:31,718 - messageSenttest.mina.HimiObject@374131a8
+2017-07-26 16:33:08,151 - new client created
+2017-07-26 16:33:08,164 - connect is success
+2017-07-26 16:33:08,174 - write info sucess
+2017-07-26 16:33:08,174 - this is equal
+2017-07-26 16:33:10,153 - messageReceived
+2017-07-26 16:33:10,153 - ho.namehanhao
+2017-07-26 16:33:10,154 - messageReceived
+2017-07-26 16:33:10,154 - ho.nameHimi
+2017-07-26 16:33:10,155 - messageSenttest.mina.HimiObject@4c782678
+2017-07-26 16:33:10,156 - messageSenttest.mina.HimiObject@6425b780
+2017-07-26 16:53:23,677 - new client created
+2017-07-26 16:53:23,689 - connect is success
+2017-07-26 16:53:23,699 - write info sucess
+2017-07-26 16:53:25,680 - messageReceived
+2017-07-26 16:53:25,680 - ho.namehanhao
+2017-07-26 16:53:25,681 - messageReceived
+2017-07-26 16:53:25,681 - ho.nameHimi
+2017-07-26 16:53:25,682 - messageSenttest.mina.HimiObject@3ea7f915
+2017-07-26 16:53:25,683 - messageSenttest.mina.HimiObject@5d1f1d6
+2017-07-26 16:53:56,662 - counted a exception
+2017-07-26 16:53:56,662 - sessionClosed
+2017-07-26 16:54:00,329 - Server mina start error
+java.io.IOException: Error while binding on 0.0.0.0/0.0.0.0:9988
+original message : Address already in use: bind
+	at org.apache.mina.transport.socket.nio.NioSocketAcceptor.open(NioSocketAcceptor.java:238)
+	at org.apache.mina.transport.socket.nio.NioSocketAcceptor.open(NioSocketAcceptor.java:51)
+	at org.apache.mina.core.polling.AbstractPollingIoAcceptor.registerHandles(AbstractPollingIoAcceptor.java:586)
+	at org.apache.mina.core.polling.AbstractPollingIoAcceptor.access$400(AbstractPollingIoAcceptor.java:71)
+	at org.apache.mina.core.polling.AbstractPollingIoAcceptor$Acceptor.run(AbstractPollingIoAcceptor.java:454)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 16:54:00,334 - Mina Server run done! on port:9988
+2017-07-26 16:54:00,334 - Mina Server run done! on port:9988
+2017-07-26 16:54:00,334 - Mina Server run done! on port:9988
+2017-07-26 16:54:00,334 - Mina Server run done! on port:9988
+2017-07-26 16:54:05,540 - counted a exception
+2017-07-26 16:54:05,541 - sessionClosed
+2017-07-26 16:54:06,408 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 16:54:06,409 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 16:54:06,410 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 16:54:06,408 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 16:54:06,424 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 16:54:24,301 - Mina Server run done! on port:9988
+2017-07-26 16:54:24,301 - Mina Server run done! on port:9988
+2017-07-26 16:54:24,301 - Mina Server run done! on port:9988
+2017-07-26 16:54:24,301 - Mina Server run done! on port:9988
+2017-07-26 16:54:31,725 - new client created
+2017-07-26 16:54:31,729 - connect is success
+2017-07-26 16:54:31,741 - write info sucess
+2017-07-26 16:54:31,747 - messageReceived
+2017-07-26 16:54:31,747 - ho.namehanhao
+2017-07-26 16:54:31,752 - messageReceived
+2017-07-26 16:54:31,752 - ho.nameHimi
+2017-07-26 16:54:31,753 - messageSenttest.mina.HimiObject@65ac6103
+2017-07-26 16:54:31,754 - messageSenttest.mina.HimiObject@197392df
+2017-07-26 16:55:20,474 - new client created
+2017-07-26 16:55:20,486 - connect is success
+2017-07-26 16:55:20,495 - messageReceived
+2017-07-26 16:55:20,495 - ho.nameHimi
+2017-07-26 16:55:20,496 - messageReceived
+2017-07-26 16:55:20,496 - ho.namehanhao
+2017-07-26 16:55:20,496 - write info sucess
+2017-07-26 16:55:20,497 - messageSenttest.mina.HimiObject@49a1afb1
+2017-07-26 16:55:20,497 - messageSenttest.mina.HimiObject@1615b33b
+2017-07-26 16:59:18,471 - new client created
+2017-07-26 16:59:18,483 - connect is success
+2017-07-26 16:59:18,493 - messageReceived
+2017-07-26 16:59:18,493 - ho.nameHimi
+2017-07-26 16:59:18,493 - write info sucess
+2017-07-26 16:59:18,493 - messageReceived
+2017-07-26 16:59:18,494 - ho.namehanhao
+2017-07-26 16:59:18,494 - messageSenttest.mina.HimiObject@40334c25
+2017-07-26 16:59:18,494 - messageSenttest.mina.HimiObject@67cc3210
+2017-07-26 17:03:28,334 - new client created
+2017-07-26 17:03:28,345 - connect is success
+2017-07-26 17:03:28,355 - messageReceived
+2017-07-26 17:03:28,355 - ho.namehanhao
+2017-07-26 17:03:28,356 - messageReceived
+2017-07-26 17:03:28,356 - ho.nameHimi
+2017-07-26 17:03:28,356 - write info sucess
+2017-07-26 17:03:28,356 - messageSenttest.mina.HimiObject@39d7a7b3
+2017-07-26 17:03:28,357 - messageSenttest.mina.HimiObject@7d42f66f
+2017-07-26 17:09:03,863 - new client created
+2017-07-26 17:09:03,876 - connect is success
+2017-07-26 17:09:03,886 - messageReceived
+2017-07-26 17:09:03,886 - ho.namehanhao
+2017-07-26 17:09:03,887 - messageReceived
+2017-07-26 17:09:03,887 - ho.nameHimi
+2017-07-26 17:09:03,887 - write info sucess
+2017-07-26 17:09:03,887 - messageSenttest.mina.HimiObject@6425b780
+2017-07-26 17:09:03,887 - messageSenttest.mina.HimiObject@683267dd
+2017-07-26 17:17:00,863 - new client created
+2017-07-26 17:17:00,876 - connect is success
+2017-07-26 17:17:00,886 - messageReceived
+2017-07-26 17:17:00,887 - ho.namehanhao
+2017-07-26 17:17:00,887 - write info sucess
+2017-07-26 17:17:00,887 - messageReceived
+2017-07-26 17:17:00,887 - ho.nameHimi
+2017-07-26 17:17:00,887 - messageSenttest.mina.HimiObject@1e38d900
+2017-07-26 17:17:00,888 - messageSenttest.mina.HimiObject@262e9e80
+2017-07-26 17:18:34,220 - new client created
+2017-07-26 17:18:34,232 - connect is success
+2017-07-26 17:18:34,242 - messageReceived
+2017-07-26 17:18:34,242 - ho.namehanhao
+2017-07-26 17:18:34,242 - messageReceived
+2017-07-26 17:18:34,242 - ho.nameHimi
+2017-07-26 17:18:34,242 - write info sucess
+2017-07-26 17:18:34,243 - messageSenttest.mina.HimiObject@1517225f
+2017-07-26 17:18:34,243 - messageSenttest.mina.HimiObject@21d195ca
+2017-07-26 17:18:34,245 - Iosession is over
+2017-07-26 17:18:34,246 - inputClosed
+2017-07-26 17:18:34,246 - sessionClosed
+2017-07-26 17:19:41,540 - new client created
+2017-07-26 17:19:41,554 - connect is success
+2017-07-26 17:19:41,564 - messageReceived
+2017-07-26 17:19:41,564 - ho.nameHimi
+2017-07-26 17:19:41,565 - messageReceived
+2017-07-26 17:19:41,565 - ho.namehanhao
+2017-07-26 17:19:41,565 - messageSenttest.mina.HimiObject@1abcd898
+2017-07-26 17:19:41,565 - write info sucess
+2017-07-26 17:19:41,565 - messageSenttest.mina.HimiObject@642ff0de
+2017-07-26 17:19:41,568 - Iosession is over
+2017-07-26 17:19:41,568 - inputClosed
+2017-07-26 17:19:41,568 - sessionClosed
+2017-07-26 18:16:05,177 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 18:16:05,177 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 18:16:05,178 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 18:16:05,193 - Iosession is over
+2017-07-26 18:16:05,194 - Iosession is over
+2017-07-26 18:16:05,195 - Iosession is over
+2017-07-26 18:16:05,190 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 18:16:05,213 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 18:16:05,213 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-07-26 18:16:05,222 - Iosession is over

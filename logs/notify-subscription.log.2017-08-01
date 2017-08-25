@@ -1,0 +1,1730 @@
+2017-08-01 10:49:43,637 - Mina Server run done! on port:9988
+2017-08-01 10:54:08,820 - new client created
+2017-08-01 10:54:32,237 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-01 10:54:32,242 - messageReceived
+2017-08-01 10:54:32,243 - server get msg:000000125600<?xml version="1.0" encoding="GBK"?>
+2017-08-01 10:54:32,253 - messageReceived
+2017-08-01 10:54:32,253 - server get msg:<ap>
+2017-08-01 10:54:32,254 - messageReceived
+2017-08-01 10:54:32,254 - server get msg:	<head>
+2017-08-01 10:54:32,254 - messageReceived
+2017-08-01 10:54:32,254 - server get msg:		<tr_code>300001</tr_code>
+2017-08-01 10:54:32,255 - messageReceived
+2017-08-01 10:54:32,255 - server get msg:		<cms_corp_no></cms_corp_no>
+2017-08-01 10:54:32,255 - messageReceived
+2017-08-01 10:54:32,255 - server get msg:		<user_no></user_no>
+2017-08-01 10:54:32,256 - messageReceived
+2017-08-01 10:54:32,256 - server get msg:		<org_code></org_code>
+2017-08-01 10:54:32,256 - messageReceived
+2017-08-01 10:54:32,257 - server get msg:		<serial_no></serial_no>
+2017-08-01 10:54:32,257 - messageReceived
+2017-08-01 10:54:32,257 - server get msg:		<req_no></req_no>
+2017-08-01 10:54:32,258 - messageReceived
+2017-08-01 10:54:32,258 - server get msg:		<tr_acdt>20170801105218</tr_acdt>
+2017-08-01 10:54:32,258 - messageReceived
+2017-08-01 10:54:32,258 - server get msg:		<tr_time></tr_time>
+2017-08-01 10:54:32,259 - messageReceived
+2017-08-01 10:54:32,261 - server get msg:        <channel>5</channel>
+2017-08-01 10:54:32,261 - messageReceived
+2017-08-01 10:54:32,261 - server get msg:		<sign></sign>
+2017-08-01 10:54:32,262 - messageReceived
+2017-08-01 10:54:32,262 - server get msg:		<file_flag>0</file_flag>
+2017-08-01 10:54:32,263 - messageReceived
+2017-08-01 10:54:32,263 - server get msg:		<reserved></reserved>
+2017-08-01 10:54:32,263 - messageReceived
+2017-08-01 10:54:32,264 - server get msg:	</head>
+2017-08-01 10:54:32,264 - messageReceived
+2017-08-01 10:54:32,264 - server get msg:	<body>
+2017-08-01 10:54:32,264 - messageReceived
+2017-08-01 10:54:32,264 - server get msg:		<pay_acno>洪升aaa</pay_acno>
+2017-08-01 10:54:32,265 - messageReceived
+2017-08-01 10:54:32,265 - server get msg:		<pay_cur_code>01</pay_cur_code>
+2017-08-01 10:54:32,265 - messageReceived
+2017-08-01 10:54:32,265 - server get msg:		<pay_acname>洪升aaa</pay_acname>
+2017-08-01 10:54:32,266 - messageReceived
+2017-08-01 10:54:32,266 - server get msg:		<as_flag>洪升aaa</as_flag>
+2017-08-01 10:54:32,266 - messageReceived
+2017-08-01 10:54:32,266 - server get msg:		<as_acno>洪升aaa</as_acno>
+2017-08-01 10:54:32,266 - messageReceived
+2017-08-01 10:54:32,266 - server get msg:		<as_acname></as_acname>
+2017-08-01 10:54:32,267 - messageReceived
+2017-08-01 10:54:32,267 - server get msg:		<pay_accaddr></pay_accaddr>
+2017-08-01 10:54:32,267 - messageReceived
+2017-08-01 10:54:32,267 - server get msg:		<cert_type></cert_type>
+2017-08-01 10:54:32,268 - messageReceived
+2017-08-01 10:54:32,268 - server get msg:		<cert_no></cert_no>
+2017-08-01 10:54:32,268 - messageReceived
+2017-08-01 10:54:32,269 - server get msg:		<rcv_cur_code>01</rcv_cur_code>
+2017-08-01 10:54:32,269 - messageReceived
+2017-08-01 10:54:32,269 - server get msg:		<rcv_acname>洪升aaa</rcv_acname>
+2017-08-01 10:54:32,269 - messageReceived
+2017-08-01 10:54:32,269 - server get msg:		<rcv_accaddr></rcv_accaddr>
+2017-08-01 10:54:32,270 - messageReceived
+2017-08-01 10:54:32,270 - server get msg:		<rcv_bank_no>洪升aaa</rcv_bank_no>
+2017-08-01 10:54:32,270 - messageReceived
+2017-08-01 10:54:32,270 - server get msg:		<rcv_bank_name>洪升aaa</rcv_bank_name>
+2017-08-01 10:54:32,270 - messageReceived
+2017-08-01 10:54:32,270 - server get msg:		<amt>1</amt>
+2017-08-01 10:54:32,271 - messageReceived
+2017-08-01 10:54:32,271 - server get msg:		<bank_flag>洪升aaa</bank_flag>
+2017-08-01 10:54:32,271 - messageReceived
+2017-08-01 10:54:32,271 - server get msg:		<urgency_flag>0</urgency_flag>
+2017-08-01 10:54:32,271 - messageReceived
+2017-08-01 10:54:32,272 - server get msg:		<area_flag>洪升aaa</area_flag>
+2017-08-01 10:54:32,272 - messageReceived
+2017-08-01 10:54:32,272 - server get msg:		<bank_kind></bank_kind>
+2017-08-01 10:54:32,274 - messageReceived
+2017-08-01 10:54:32,274 - server get msg:		<purpose></purpose>
+2017-08-01 10:54:32,275 - messageReceived
+2017-08-01 10:54:32,275 - server get msg:		<postscript>洪升aaa</postscript>
+2017-08-01 10:54:32,275 - messageReceived
+2017-08-01 10:54:32,275 - server get msg:		<booking_flag></booking_flag>
+2017-08-01 10:54:32,276 - messageReceived
+2017-08-01 10:54:32,276 - server get msg:		<booking_date></booking_date>
+2017-08-01 10:54:32,276 - messageReceived
+2017-08-01 10:54:32,276 - server get msg:		<booking_time></booking_time>
+2017-08-01 10:54:32,277 - messageReceived
+2017-08-01 10:54:32,277 - server get msg:		<saverecvinfo_flag></saverecvinfo_flag>
+2017-08-01 10:54:32,278 - messageReceived
+2017-08-01 10:54:32,280 - server get msg:		<jfdk_flag></jfdk_flag>
+2017-08-01 10:54:32,282 - messageReceived
+2017-08-01 10:54:32,282 - server get msg:		<prv_flag></prv_flag>
+2017-08-01 10:54:32,283 - messageReceived
+2017-08-01 10:54:32,283 - server get msg:		<mobiles></mobiles>
+2017-08-01 10:54:32,283 - messageReceived
+2017-08-01 10:54:32,283 - server get msg:    </body>
+2017-08-01 10:54:32,283 - messageReceived
+2017-08-01 10:54:32,284 - server get msg:</ap>
+2017-08-01 10:54:32,286 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 10:54:32,291 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 10:54:32,291 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 10:54:32,292 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 10:54:32,292 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 10:54:32,293 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 10:54:32,293 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 10:54:32,294 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 10:54:32,294 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 10:54:32,325 - inputClosed
+2017-08-01 10:54:32,326 - sessionClosed
+2017-08-01 11:00:03,816 - new client created
+2017-08-01 11:00:05,247 - Processing a MESSAGE_RECEIVED for session 2
+2017-08-01 11:00:05,249 - messageReceived
+2017-08-01 11:00:05,249 - server get msg:000000125600<?xml version="1.0" encoding="GBK"?>
+2017-08-01 11:00:05,251 - messageReceived
+2017-08-01 11:00:05,251 - server get msg:<ap>
+2017-08-01 11:00:05,251 - messageReceived
+2017-08-01 11:00:05,251 - server get msg:	<head>
+2017-08-01 11:00:05,252 - messageReceived
+2017-08-01 11:00:05,252 - server get msg:		<tr_code>300001</tr_code>
+2017-08-01 11:00:05,252 - messageReceived
+2017-08-01 11:00:05,252 - server get msg:		<cms_corp_no></cms_corp_no>
+2017-08-01 11:00:05,252 - messageReceived
+2017-08-01 11:00:05,252 - server get msg:		<user_no></user_no>
+2017-08-01 11:00:05,252 - messageReceived
+2017-08-01 11:00:05,253 - server get msg:		<org_code></org_code>
+2017-08-01 11:00:05,253 - messageReceived
+2017-08-01 11:00:05,253 - server get msg:		<serial_no></serial_no>
+2017-08-01 11:00:05,253 - messageReceived
+2017-08-01 11:00:05,253 - server get msg:		<req_no></req_no>
+2017-08-01 11:00:05,253 - messageReceived
+2017-08-01 11:00:05,254 - server get msg:		<tr_acdt>20170801105959</tr_acdt>
+2017-08-01 11:00:05,254 - messageReceived
+2017-08-01 11:00:05,254 - server get msg:		<tr_time></tr_time>
+2017-08-01 11:00:05,254 - messageReceived
+2017-08-01 11:00:05,254 - server get msg:        <channel>5</channel>
+2017-08-01 11:00:05,254 - messageReceived
+2017-08-01 11:00:05,254 - server get msg:		<sign></sign>
+2017-08-01 11:00:05,255 - messageReceived
+2017-08-01 11:00:05,255 - server get msg:		<file_flag>0</file_flag>
+2017-08-01 11:00:05,255 - messageReceived
+2017-08-01 11:00:05,255 - server get msg:		<reserved></reserved>
+2017-08-01 11:00:05,256 - messageReceived
+2017-08-01 11:00:05,256 - server get msg:	</head>
+2017-08-01 11:00:05,256 - messageReceived
+2017-08-01 11:00:05,256 - server get msg:	<body>
+2017-08-01 11:00:05,256 - messageReceived
+2017-08-01 11:00:05,257 - server get msg:		<pay_acno>洪升aaa</pay_acno>
+2017-08-01 11:00:05,257 - messageReceived
+2017-08-01 11:00:05,257 - server get msg:		<pay_cur_code>01</pay_cur_code>
+2017-08-01 11:00:05,257 - messageReceived
+2017-08-01 11:00:05,257 - server get msg:		<pay_acname>洪升aaa</pay_acname>
+2017-08-01 11:00:05,258 - messageReceived
+2017-08-01 11:00:05,258 - server get msg:		<as_flag>洪升aaa</as_flag>
+2017-08-01 11:00:05,258 - messageReceived
+2017-08-01 11:00:05,258 - server get msg:		<as_acno>洪升aaa</as_acno>
+2017-08-01 11:00:05,258 - messageReceived
+2017-08-01 11:00:05,258 - server get msg:		<as_acname></as_acname>
+2017-08-01 11:00:05,258 - messageReceived
+2017-08-01 11:00:05,258 - server get msg:		<pay_accaddr></pay_accaddr>
+2017-08-01 11:00:05,261 - messageReceived
+2017-08-01 11:00:05,261 - server get msg:		<cert_type></cert_type>
+2017-08-01 11:00:05,262 - messageReceived
+2017-08-01 11:00:05,262 - server get msg:		<cert_no></cert_no>
+2017-08-01 11:00:05,262 - messageReceived
+2017-08-01 11:00:05,262 - server get msg:		<rcv_cur_code>01</rcv_cur_code>
+2017-08-01 11:00:05,262 - messageReceived
+2017-08-01 11:00:05,262 - server get msg:		<rcv_acname>洪升aaa</rcv_acname>
+2017-08-01 11:00:05,262 - messageReceived
+2017-08-01 11:00:05,263 - server get msg:		<rcv_accaddr></rcv_accaddr>
+2017-08-01 11:00:05,263 - messageReceived
+2017-08-01 11:00:05,263 - server get msg:		<rcv_bank_no>洪升aaa</rcv_bank_no>
+2017-08-01 11:00:05,263 - messageReceived
+2017-08-01 11:00:05,264 - server get msg:		<rcv_bank_name>洪升aaa</rcv_bank_name>
+2017-08-01 11:00:05,264 - messageReceived
+2017-08-01 11:00:05,265 - server get msg:		<amt>1</amt>
+2017-08-01 11:00:05,265 - messageReceived
+2017-08-01 11:00:05,265 - server get msg:		<bank_flag>洪升aaa</bank_flag>
+2017-08-01 11:00:05,265 - messageReceived
+2017-08-01 11:00:05,265 - server get msg:		<urgency_flag>0</urgency_flag>
+2017-08-01 11:00:05,265 - messageReceived
+2017-08-01 11:00:05,265 - server get msg:		<area_flag>洪升aaa</area_flag>
+2017-08-01 11:00:05,266 - messageReceived
+2017-08-01 11:00:05,266 - server get msg:		<bank_kind></bank_kind>
+2017-08-01 11:00:05,266 - messageReceived
+2017-08-01 11:00:05,266 - server get msg:		<purpose></purpose>
+2017-08-01 11:00:05,266 - messageReceived
+2017-08-01 11:00:05,266 - server get msg:		<postscript>洪升aaa</postscript>
+2017-08-01 11:00:05,266 - messageReceived
+2017-08-01 11:00:05,266 - server get msg:		<booking_flag></booking_flag>
+2017-08-01 11:00:05,267 - messageReceived
+2017-08-01 11:00:05,267 - server get msg:		<booking_date></booking_date>
+2017-08-01 11:00:05,267 - messageReceived
+2017-08-01 11:00:05,267 - server get msg:		<booking_time></booking_time>
+2017-08-01 11:00:05,267 - messageReceived
+2017-08-01 11:00:05,267 - server get msg:		<saverecvinfo_flag></saverecvinfo_flag>
+2017-08-01 11:00:05,268 - messageReceived
+2017-08-01 11:00:05,268 - server get msg:		<jfdk_flag></jfdk_flag>
+2017-08-01 11:00:05,268 - messageReceived
+2017-08-01 11:00:05,268 - server get msg:		<prv_flag></prv_flag>
+2017-08-01 11:00:05,268 - messageReceived
+2017-08-01 11:00:05,268 - server get msg:		<mobiles></mobiles>
+2017-08-01 11:00:05,269 - messageReceived
+2017-08-01 11:00:05,269 - server get msg:    </body>
+2017-08-01 11:00:05,269 - messageReceived
+2017-08-01 11:00:05,269 - server get msg:</ap>
+2017-08-01 11:00:05,269 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,271 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,272 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,272 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,273 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,274 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,274 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,275 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,275 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,278 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,278 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,279 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,280 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,280 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,280 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,281 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,281 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,284 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,285 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,286 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,286 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,287 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,287 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,287 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,288 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,292 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,293 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,294 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,294 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,295 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,295 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,295 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,295 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,298 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,302 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,303 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,303 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,304 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,306 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,307 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,307 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,314 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,315 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,316 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,316 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,316 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:05,317 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:00:08,463 - inputClosed
+2017-08-01 11:00:08,463 - sessionClosed
+2017-08-01 11:03:43,620 - new client created
+2017-08-01 11:03:43,623 - Processing a MESSAGE_RECEIVED for session 3
+2017-08-01 11:03:43,624 - messageReceived
+2017-08-01 11:03:43,624 - server get msg:000000125600<?xml version="1.0" encoding="GBK"?>
+2017-08-01 11:03:43,625 - messageReceived
+2017-08-01 11:03:43,625 - server get msg:<ap>
+2017-08-01 11:03:43,625 - messageReceived
+2017-08-01 11:03:43,625 - server get msg:	<head>
+2017-08-01 11:03:43,625 - messageReceived
+2017-08-01 11:03:43,625 - server get msg:		<tr_code>300001</tr_code>
+2017-08-01 11:03:43,625 - messageReceived
+2017-08-01 11:03:43,625 - server get msg:		<cms_corp_no></cms_corp_no>
+2017-08-01 11:03:43,626 - messageReceived
+2017-08-01 11:03:43,626 - server get msg:		<user_no></user_no>
+2017-08-01 11:03:43,626 - messageReceived
+2017-08-01 11:03:43,626 - server get msg:		<org_code></org_code>
+2017-08-01 11:03:43,626 - messageReceived
+2017-08-01 11:03:43,626 - server get msg:		<serial_no></serial_no>
+2017-08-01 11:03:43,626 - messageReceived
+2017-08-01 11:03:43,626 - server get msg:		<req_no></req_no>
+2017-08-01 11:03:43,626 - messageReceived
+2017-08-01 11:03:43,627 - server get msg:		<tr_acdt>20170801110343</tr_acdt>
+2017-08-01 11:03:43,627 - messageReceived
+2017-08-01 11:03:43,627 - server get msg:		<tr_time></tr_time>
+2017-08-01 11:03:43,627 - messageReceived
+2017-08-01 11:03:43,627 - server get msg:        <channel>5</channel>
+2017-08-01 11:03:43,627 - messageReceived
+2017-08-01 11:03:43,628 - server get msg:		<sign></sign>
+2017-08-01 11:03:43,630 - messageReceived
+2017-08-01 11:03:43,630 - server get msg:		<file_flag>0</file_flag>
+2017-08-01 11:03:43,630 - messageReceived
+2017-08-01 11:03:43,630 - server get msg:		<reserved></reserved>
+2017-08-01 11:03:43,630 - messageReceived
+2017-08-01 11:03:43,631 - server get msg:	</head>
+2017-08-01 11:03:43,631 - messageReceived
+2017-08-01 11:03:43,631 - server get msg:	<body>
+2017-08-01 11:03:43,631 - messageReceived
+2017-08-01 11:03:43,632 - server get msg:		<pay_acno>洪升aaa</pay_acno>
+2017-08-01 11:03:43,632 - messageReceived
+2017-08-01 11:03:43,632 - server get msg:		<pay_cur_code>01</pay_cur_code>
+2017-08-01 11:03:43,633 - messageReceived
+2017-08-01 11:03:43,633 - server get msg:		<pay_acname>洪升aaa</pay_acname>
+2017-08-01 11:03:43,633 - messageReceived
+2017-08-01 11:03:43,633 - server get msg:		<as_flag>洪升aaa</as_flag>
+2017-08-01 11:03:43,633 - messageReceived
+2017-08-01 11:03:43,633 - server get msg:		<as_acno>洪升aaa</as_acno>
+2017-08-01 11:03:43,633 - messageReceived
+2017-08-01 11:03:43,634 - server get msg:		<as_acname></as_acname>
+2017-08-01 11:03:43,652 - messageReceived
+2017-08-01 11:03:43,652 - server get msg:		<pay_accaddr></pay_accaddr>
+2017-08-01 11:03:43,652 - messageReceived
+2017-08-01 11:03:43,653 - server get msg:		<cert_type></cert_type>
+2017-08-01 11:03:43,653 - messageReceived
+2017-08-01 11:03:43,653 - server get msg:		<cert_no></cert_no>
+2017-08-01 11:03:43,653 - messageReceived
+2017-08-01 11:03:43,653 - server get msg:		<rcv_cur_code>01</rcv_cur_code>
+2017-08-01 11:03:43,653 - messageReceived
+2017-08-01 11:03:43,653 - server get msg:		<rcv_acname>洪升aaa</rcv_acname>
+2017-08-01 11:03:43,654 - messageReceived
+2017-08-01 11:03:43,654 - server get msg:		<rcv_accaddr></rcv_accaddr>
+2017-08-01 11:03:43,654 - messageReceived
+2017-08-01 11:03:43,654 - server get msg:		<rcv_bank_no>洪升aaa</rcv_bank_no>
+2017-08-01 11:03:43,654 - messageReceived
+2017-08-01 11:03:43,654 - server get msg:		<rcv_bank_name>洪升aaa</rcv_bank_name>
+2017-08-01 11:03:43,654 - messageReceived
+2017-08-01 11:03:43,654 - server get msg:		<amt>1</amt>
+2017-08-01 11:03:43,654 - messageReceived
+2017-08-01 11:03:43,655 - server get msg:		<bank_flag>洪升aaa</bank_flag>
+2017-08-01 11:03:43,655 - messageReceived
+2017-08-01 11:03:43,655 - server get msg:		<urgency_flag>0</urgency_flag>
+2017-08-01 11:03:43,655 - messageReceived
+2017-08-01 11:03:43,655 - server get msg:		<area_flag>洪升aaa</area_flag>
+2017-08-01 11:03:43,655 - messageReceived
+2017-08-01 11:03:43,655 - server get msg:		<bank_kind></bank_kind>
+2017-08-01 11:03:43,655 - messageReceived
+2017-08-01 11:03:43,656 - server get msg:		<purpose></purpose>
+2017-08-01 11:03:43,656 - messageReceived
+2017-08-01 11:03:43,656 - server get msg:		<postscript>洪升aaa</postscript>
+2017-08-01 11:03:43,656 - messageReceived
+2017-08-01 11:03:43,656 - server get msg:		<booking_flag></booking_flag>
+2017-08-01 11:03:43,656 - messageReceived
+2017-08-01 11:03:43,656 - server get msg:		<booking_date></booking_date>
+2017-08-01 11:03:43,656 - messageReceived
+2017-08-01 11:03:43,656 - server get msg:		<booking_time></booking_time>
+2017-08-01 11:03:43,657 - messageReceived
+2017-08-01 11:03:43,657 - server get msg:		<saverecvinfo_flag></saverecvinfo_flag>
+2017-08-01 11:03:43,657 - messageReceived
+2017-08-01 11:03:43,657 - server get msg:		<jfdk_flag></jfdk_flag>
+2017-08-01 11:03:43,657 - messageReceived
+2017-08-01 11:03:43,657 - server get msg:		<prv_flag></prv_flag>
+2017-08-01 11:03:43,657 - messageReceived
+2017-08-01 11:03:43,657 - server get msg:		<mobiles></mobiles>
+2017-08-01 11:03:43,657 - messageReceived
+2017-08-01 11:03:43,657 - server get msg:    </body>
+2017-08-01 11:03:43,658 - messageReceived
+2017-08-01 11:03:43,691 - server get msg:</ap>
+2017-08-01 11:03:43,691 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:03:43,693 - counted a exceptionjava.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+2017-08-01 11:03:43,694 - sessionClosed
+2017-08-01 11:05:47,198 - new client created
+2017-08-01 11:05:47,200 - Processing a MESSAGE_RECEIVED for session 4
+2017-08-01 11:05:47,204 - messageReceived
+2017-08-01 11:05:47,204 - server get msg:000000125600<?xml version="1.0" encoding="GBK"?>
+2017-08-01 11:05:47,205 - messageReceived
+2017-08-01 11:05:47,205 - server get msg:<ap>
+2017-08-01 11:05:47,205 - messageReceived
+2017-08-01 11:05:47,205 - server get msg:	<head>
+2017-08-01 11:05:47,205 - messageReceived
+2017-08-01 11:05:47,205 - server get msg:		<tr_code>300001</tr_code>
+2017-08-01 11:05:47,205 - messageReceived
+2017-08-01 11:05:47,205 - server get msg:		<cms_corp_no></cms_corp_no>
+2017-08-01 11:05:47,206 - messageReceived
+2017-08-01 11:05:47,206 - server get msg:		<user_no></user_no>
+2017-08-01 11:05:47,206 - messageReceived
+2017-08-01 11:05:47,206 - server get msg:		<org_code></org_code>
+2017-08-01 11:05:47,206 - messageReceived
+2017-08-01 11:05:47,206 - server get msg:		<serial_no></serial_no>
+2017-08-01 11:05:47,206 - messageReceived
+2017-08-01 11:05:47,206 - server get msg:		<req_no></req_no>
+2017-08-01 11:05:47,206 - messageReceived
+2017-08-01 11:05:47,206 - server get msg:		<tr_acdt>20170801110547</tr_acdt>
+2017-08-01 11:05:47,206 - messageReceived
+2017-08-01 11:05:47,207 - server get msg:		<tr_time></tr_time>
+2017-08-01 11:05:47,207 - messageReceived
+2017-08-01 11:05:47,207 - server get msg:        <channel>5</channel>
+2017-08-01 11:05:47,207 - messageReceived
+2017-08-01 11:05:47,207 - server get msg:		<sign></sign>
+2017-08-01 11:05:47,207 - messageReceived
+2017-08-01 11:05:47,207 - server get msg:		<file_flag>0</file_flag>
+2017-08-01 11:05:47,207 - messageReceived
+2017-08-01 11:05:47,207 - server get msg:		<reserved></reserved>
+2017-08-01 11:05:47,207 - messageReceived
+2017-08-01 11:05:47,208 - server get msg:	</head>
+2017-08-01 11:05:47,208 - messageReceived
+2017-08-01 11:05:47,208 - server get msg:	<body>
+2017-08-01 11:05:47,208 - messageReceived
+2017-08-01 11:05:47,208 - server get msg:		<pay_acno>洪升aaa</pay_acno>
+2017-08-01 11:05:47,208 - messageReceived
+2017-08-01 11:05:47,208 - server get msg:		<pay_cur_code>01</pay_cur_code>
+2017-08-01 11:05:47,208 - messageReceived
+2017-08-01 11:05:47,208 - server get msg:		<pay_acname>洪升aaa</pay_acname>
+2017-08-01 11:05:47,209 - messageReceived
+2017-08-01 11:05:47,209 - server get msg:		<as_flag>洪升aaa</as_flag>
+2017-08-01 11:05:47,209 - messageReceived
+2017-08-01 11:05:47,209 - server get msg:		<as_acno>洪升aaa</as_acno>
+2017-08-01 11:05:47,209 - messageReceived
+2017-08-01 11:05:47,209 - server get msg:		<as_acname></as_acname>
+2017-08-01 11:05:47,242 - messageReceived
+2017-08-01 11:05:47,242 - server get msg:		<pay_accaddr></pay_accaddr>
+2017-08-01 11:05:47,243 - messageReceived
+2017-08-01 11:05:47,243 - server get msg:		<cert_type></cert_type>
+2017-08-01 11:05:47,243 - messageReceived
+2017-08-01 11:05:47,243 - server get msg:		<cert_no></cert_no>
+2017-08-01 11:05:47,243 - messageReceived
+2017-08-01 11:05:47,243 - server get msg:		<rcv_cur_code>01</rcv_cur_code>
+2017-08-01 11:05:47,243 - messageReceived
+2017-08-01 11:05:47,243 - server get msg:		<rcv_acname>洪升aaa</rcv_acname>
+2017-08-01 11:05:47,243 - messageReceived
+2017-08-01 11:05:47,243 - server get msg:		<rcv_accaddr></rcv_accaddr>
+2017-08-01 11:05:47,243 - messageReceived
+2017-08-01 11:05:47,243 - server get msg:		<rcv_bank_no>洪升aaa</rcv_bank_no>
+2017-08-01 11:05:47,244 - messageReceived
+2017-08-01 11:05:47,244 - server get msg:		<rcv_bank_name>洪升aaa</rcv_bank_name>
+2017-08-01 11:05:47,244 - messageReceived
+2017-08-01 11:05:47,244 - server get msg:		<amt>1</amt>
+2017-08-01 11:05:47,244 - messageReceived
+2017-08-01 11:05:47,244 - server get msg:		<bank_flag>洪升aaa</bank_flag>
+2017-08-01 11:05:47,244 - messageReceived
+2017-08-01 11:05:47,244 - server get msg:		<urgency_flag>0</urgency_flag>
+2017-08-01 11:05:47,244 - messageReceived
+2017-08-01 11:05:47,244 - server get msg:		<area_flag>洪升aaa</area_flag>
+2017-08-01 11:05:47,244 - messageReceived
+2017-08-01 11:05:47,244 - server get msg:		<bank_kind></bank_kind>
+2017-08-01 11:05:47,245 - messageReceived
+2017-08-01 11:05:47,245 - server get msg:		<purpose></purpose>
+2017-08-01 11:05:47,245 - messageReceived
+2017-08-01 11:05:47,245 - server get msg:		<postscript>洪升aaa</postscript>
+2017-08-01 11:05:47,245 - messageReceived
+2017-08-01 11:05:47,245 - server get msg:		<booking_flag></booking_flag>
+2017-08-01 11:05:47,245 - messageReceived
+2017-08-01 11:05:47,245 - server get msg:		<booking_date></booking_date>
+2017-08-01 11:05:47,245 - messageReceived
+2017-08-01 11:05:47,245 - server get msg:		<booking_time></booking_time>
+2017-08-01 11:05:47,246 - messageReceived
+2017-08-01 11:05:47,246 - server get msg:		<saverecvinfo_flag></saverecvinfo_flag>
+2017-08-01 11:05:47,246 - messageReceived
+2017-08-01 11:05:47,246 - server get msg:		<jfdk_flag></jfdk_flag>
+2017-08-01 11:05:47,246 - messageReceived
+2017-08-01 11:05:47,246 - server get msg:		<prv_flag></prv_flag>
+2017-08-01 11:05:47,246 - messageReceived
+2017-08-01 11:05:47,246 - server get msg:		<mobiles></mobiles>
+2017-08-01 11:05:47,247 - messageReceived
+2017-08-01 11:05:47,247 - server get msg:    </body>
+2017-08-01 11:05:47,247 - messageReceived
+2017-08-01 11:05:47,247 - server get msg:</ap>
+2017-08-01 11:05:47,247 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:05:47,248 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:05:47,248 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:05:47,248 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:05:47,249 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:05:47,277 - inputClosed
+2017-08-01 11:05:47,278 - sessionClosed
+2017-08-01 11:06:57,193 - new client created
+2017-08-01 11:06:57,197 - Processing a MESSAGE_RECEIVED for session 5
+2017-08-01 11:06:57,198 - messageReceived
+2017-08-01 11:06:57,198 - server get msg:000000125600<?xml version="1.0" encoding="GBK"?>
+2017-08-01 11:06:57,198 - messageReceived
+2017-08-01 11:06:57,198 - server get msg:<ap>
+2017-08-01 11:06:57,200 - messageReceived
+2017-08-01 11:06:57,201 - server get msg:	<head>
+2017-08-01 11:06:57,201 - messageReceived
+2017-08-01 11:06:57,201 - server get msg:		<tr_code>300001</tr_code>
+2017-08-01 11:06:57,201 - messageReceived
+2017-08-01 11:06:57,201 - server get msg:		<cms_corp_no></cms_corp_no>
+2017-08-01 11:06:57,201 - messageReceived
+2017-08-01 11:06:57,201 - server get msg:		<user_no></user_no>
+2017-08-01 11:06:57,201 - messageReceived
+2017-08-01 11:06:57,201 - server get msg:		<org_code></org_code>
+2017-08-01 11:06:57,202 - messageReceived
+2017-08-01 11:06:57,202 - server get msg:		<serial_no></serial_no>
+2017-08-01 11:06:57,202 - messageReceived
+2017-08-01 11:06:57,202 - server get msg:		<req_no></req_no>
+2017-08-01 11:06:57,202 - messageReceived
+2017-08-01 11:06:57,202 - server get msg:		<tr_acdt>20170801110657</tr_acdt>
+2017-08-01 11:06:57,202 - messageReceived
+2017-08-01 11:06:57,202 - server get msg:		<tr_time></tr_time>
+2017-08-01 11:06:57,202 - messageReceived
+2017-08-01 11:06:57,202 - server get msg:        <channel>5</channel>
+2017-08-01 11:06:57,202 - messageReceived
+2017-08-01 11:06:57,202 - server get msg:		<sign></sign>
+2017-08-01 11:06:57,202 - messageReceived
+2017-08-01 11:06:57,202 - server get msg:		<file_flag>0</file_flag>
+2017-08-01 11:06:57,202 - messageReceived
+2017-08-01 11:06:57,203 - server get msg:		<reserved></reserved>
+2017-08-01 11:06:57,203 - messageReceived
+2017-08-01 11:06:57,203 - server get msg:	</head>
+2017-08-01 11:06:57,203 - messageReceived
+2017-08-01 11:06:57,203 - server get msg:	<body>
+2017-08-01 11:06:57,203 - messageReceived
+2017-08-01 11:06:57,203 - server get msg:		<pay_acno>洪升aaa</pay_acno>
+2017-08-01 11:06:57,203 - messageReceived
+2017-08-01 11:06:57,203 - server get msg:		<pay_cur_code>01</pay_cur_code>
+2017-08-01 11:06:57,203 - messageReceived
+2017-08-01 11:06:57,203 - server get msg:		<pay_acname>洪升aaa</pay_acname>
+2017-08-01 11:06:57,203 - messageReceived
+2017-08-01 11:06:57,203 - server get msg:		<as_flag>洪升aaa</as_flag>
+2017-08-01 11:06:57,203 - messageReceived
+2017-08-01 11:06:57,203 - server get msg:		<as_acno>洪升aaa</as_acno>
+2017-08-01 11:06:57,204 - messageReceived
+2017-08-01 11:06:57,204 - server get msg:		<as_acname></as_acname>
+2017-08-01 11:06:57,204 - messageReceived
+2017-08-01 11:06:57,204 - server get msg:		<pay_accaddr></pay_accaddr>
+2017-08-01 11:06:57,211 - messageReceived
+2017-08-01 11:06:57,211 - server get msg:		<cert_type></cert_type>
+2017-08-01 11:06:57,211 - messageReceived
+2017-08-01 11:06:57,211 - server get msg:		<cert_no></cert_no>
+2017-08-01 11:06:57,211 - messageReceived
+2017-08-01 11:06:57,211 - server get msg:		<rcv_cur_code>01</rcv_cur_code>
+2017-08-01 11:06:57,211 - messageReceived
+2017-08-01 11:06:57,211 - server get msg:		<rcv_acname>洪升aaa</rcv_acname>
+2017-08-01 11:06:57,211 - messageReceived
+2017-08-01 11:06:57,211 - server get msg:		<rcv_accaddr></rcv_accaddr>
+2017-08-01 11:06:57,211 - messageReceived
+2017-08-01 11:06:57,211 - server get msg:		<rcv_bank_no>洪升aaa</rcv_bank_no>
+2017-08-01 11:06:57,211 - messageReceived
+2017-08-01 11:06:57,211 - server get msg:		<rcv_bank_name>洪升aaa</rcv_bank_name>
+2017-08-01 11:06:57,212 - messageReceived
+2017-08-01 11:06:57,212 - server get msg:		<amt>1</amt>
+2017-08-01 11:06:57,212 - messageReceived
+2017-08-01 11:06:57,212 - server get msg:		<bank_flag>洪升aaa</bank_flag>
+2017-08-01 11:06:57,212 - messageReceived
+2017-08-01 11:06:57,212 - server get msg:		<urgency_flag>0</urgency_flag>
+2017-08-01 11:06:57,212 - messageReceived
+2017-08-01 11:06:57,212 - server get msg:		<area_flag>洪升aaa</area_flag>
+2017-08-01 11:06:57,212 - messageReceived
+2017-08-01 11:06:57,212 - server get msg:		<bank_kind></bank_kind>
+2017-08-01 11:06:57,212 - messageReceived
+2017-08-01 11:06:57,212 - server get msg:		<purpose></purpose>
+2017-08-01 11:06:57,212 - messageReceived
+2017-08-01 11:06:57,212 - server get msg:		<postscript>洪升aaa</postscript>
+2017-08-01 11:06:57,212 - messageReceived
+2017-08-01 11:06:57,212 - server get msg:		<booking_flag></booking_flag>
+2017-08-01 11:06:57,212 - messageReceived
+2017-08-01 11:06:57,212 - server get msg:		<booking_date></booking_date>
+2017-08-01 11:06:57,213 - messageReceived
+2017-08-01 11:06:57,213 - server get msg:		<booking_time></booking_time>
+2017-08-01 11:06:57,213 - messageReceived
+2017-08-01 11:06:57,213 - server get msg:		<saverecvinfo_flag></saverecvinfo_flag>
+2017-08-01 11:06:57,213 - messageReceived
+2017-08-01 11:06:57,213 - server get msg:		<jfdk_flag></jfdk_flag>
+2017-08-01 11:06:57,213 - messageReceived
+2017-08-01 11:06:57,213 - server get msg:		<prv_flag></prv_flag>
+2017-08-01 11:06:57,213 - messageReceived
+2017-08-01 11:06:57,213 - server get msg:		<mobiles></mobiles>
+2017-08-01 11:06:57,213 - messageReceived
+2017-08-01 11:06:57,213 - server get msg:    </body>
+2017-08-01 11:06:57,213 - messageReceived
+2017-08-01 11:06:57,213 - server get msg:</ap>
+2017-08-01 11:06:57,213 - messageSent<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:06:57,228 - inputClosed
+2017-08-01 11:06:57,228 - sessionClosed
+2017-08-01 11:07:55,071 - Mina Server run done! on port:9988
+2017-08-01 11:08:22,733 - Mina Server run done! on port:9988
+2017-08-01 11:08:29,317 - new client created
+2017-08-01 11:08:40,130 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-01 11:08:49,679 - decoder.iosession:(0x00000001: nio socket, server, /127.0.0.1:49237 => /127.0.0.1:9988)
+2017-08-01 11:09:03,586 - messageReceived
+2017-08-01 11:09:06,530 - server get msg:5600<?xml ve
+2017-08-01 11:09:25,676 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:09:36,771 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:09:36,779 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:09:36,782 - counted a exceptionjava.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+2017-08-01 11:09:36,782 - sessionClosed
+2017-08-01 11:21:55,942 - new client created
+2017-08-01 11:21:55,968 - Processing a MESSAGE_RECEIVED for session 2
+2017-08-01 11:21:55,969 - decoder.iosession:(0x00000002: nio socket, server, /127.0.0.1:49559 => /127.0.0.1:9988)
+2017-08-01 11:21:55,969 - messageReceived
+2017-08-01 11:21:55,970 - server get msg:5600<?xml ve
+2017-08-01 11:21:55,970 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:21:55,970 - client eccode begin ==========[B@70aa5c5c
+2017-08-01 11:21:55,971 - messageSent[B@70aa5c5c
+2017-08-01 11:21:55,979 - inputClosed
+2017-08-01 11:21:55,980 - sessionClosed
+2017-08-01 11:24:29,975 - new client created
+2017-08-01 11:25:41,651 - Processing a MESSAGE_RECEIVED for session 3
+2017-08-01 11:25:41,652 - decoder.iosession:(0x00000003: nio socket, server, /127.0.0.1:49577 => /127.0.0.1:9988)
+2017-08-01 11:25:41,653 - messageReceived
+2017-08-01 11:25:41,653 - server get msg:5600<?xml ve
+2017-08-01 11:25:41,653 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:25:41,653 - client eccode begin ==========[B@52c0c32b
+2017-08-01 11:25:41,654 - messageSent[B@52c0c32b
+2017-08-01 11:28:11,557 - inputClosed
+2017-08-01 11:28:11,557 - sessionClosed
+2017-08-01 11:28:50,413 - new client created
+2017-08-01 11:29:06,931 - Processing a MESSAGE_RECEIVED for session 4
+2017-08-01 11:29:06,932 - decoder.iosession:(0x00000004: nio socket, server, /127.0.0.1:49594 => /127.0.0.1:9988)
+2017-08-01 11:29:06,933 - messageReceived
+2017-08-01 11:29:06,933 - server get msg:00<?xml version="1.0" encoding="GBK"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801112831</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:29:06,934 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:29:06,934 - client eccode begin ==========[B@13fdc910
+2017-08-01 11:29:06,935 - messageSent[B@13fdc910
+2017-08-01 11:30:57,531 - inputClosed
+2017-08-01 11:30:57,531 - sessionClosed
+2017-08-01 11:31:06,982 - new client created
+2017-08-01 11:31:06,985 - Processing a MESSAGE_RECEIVED for session 5
+2017-08-01 11:31:06,986 - decoder.iosession:(0x00000005: nio socket, server, /127.0.0.1:49622 => /127.0.0.1:9988)
+2017-08-01 11:31:06,987 - messageReceived
+2017-08-01 11:31:06,988 - server get msg:00<?xml version="1.0" encoding="GBK"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801113106</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:31:06,988 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:31:06,988 - client eccode begin ==========[B@2224d82f
+2017-08-01 11:31:06,989 - messageSent[B@2224d82f
+2017-08-01 11:31:06,992 - inputClosed
+2017-08-01 11:31:06,993 - sessionClosed
+2017-08-01 11:35:52,795 - new client created
+2017-08-01 11:37:17,365 - Processing a MESSAGE_RECEIVED for session 6
+2017-08-01 11:37:17,365 - decoder.iosession:(0x00000006: nio socket, server, /127.0.0.1:49649 => /127.0.0.1:9988)
+2017-08-01 11:37:17,371 - messageReceived
+2017-08-01 11:37:17,371 - server get msg:00<?xml version="1.0" encoding="GBK"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801113543</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:37:17,371 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:37:17,372 - client eccode begin ==========[B@6e244731
+2017-08-01 11:37:17,372 - messageSent[B@6e244731
+2017-08-01 11:37:47,383 - inputClosed
+2017-08-01 11:37:47,384 - sessionClosed
+2017-08-01 11:42:34,282 - new client created
+2017-08-01 11:42:35,999 - Processing a MESSAGE_RECEIVED for session 7
+2017-08-01 11:42:35,999 - decoder.iosession:(0x00000007: nio socket, server, /127.0.0.1:49693 => /127.0.0.1:9988)
+2017-08-01 11:42:36,000 - messageReceived
+2017-08-01 11:42:36,000 - server get msg:00<?xml version="1.0" encoding="GBK"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801114227</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:42:36,000 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:42:36,001 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:42:36,001 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:42:51,751 - inputClosed
+2017-08-01 11:42:51,751 - sessionClosed
+2017-08-01 11:45:17,830 - new client created
+2017-08-01 11:45:19,290 - Processing a MESSAGE_RECEIVED for session 8
+2017-08-01 11:45:19,290 - decoder.iosession:(0x00000008: nio socket, server, /127.0.0.1:49722 => /127.0.0.1:9988)
+2017-08-01 11:45:19,291 - messageReceived
+2017-08-01 11:45:19,291 - server get msg:00<?xml version="1.0" encoding="GBK"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801114514</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:45:19,291 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:45:19,291 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:45:19,292 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:45:49,299 - inputClosed
+2017-08-01 11:45:49,299 - sessionClosed
+2017-08-01 11:46:43,187 - new client created
+2017-08-01 11:46:44,386 - Processing a MESSAGE_RECEIVED for session 9
+2017-08-01 11:46:44,387 - decoder.iosession:(0x00000009: nio socket, server, /127.0.0.1:49732 => /127.0.0.1:9988)
+2017-08-01 11:46:44,387 - messageReceived
+2017-08-01 11:46:44,387 - server get msg:00<?xml version="1.0" encoding="GBK"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801114640</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:46:44,388 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:46:44,388 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:46:44,389 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:47:12,412 - inputClosed
+2017-08-01 11:47:12,413 - sessionClosed
+2017-08-01 11:50:33,374 - new client created
+2017-08-01 11:50:34,980 - Processing a MESSAGE_RECEIVED for session 10
+2017-08-01 11:50:42,073 - decoder.iosession:(0x0000000A: nio socket, server, /127.0.0.1:49761 => /127.0.0.1:9988)
+2017-08-01 11:50:42,075 - messageReceived
+2017-08-01 11:50:42,075 - server get msg:00<?xml version="1.0" encoding="GBK"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801115029</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:50:42,076 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:51:02,660 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:51:20,661 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:51:20,662 - counted a exceptionjava.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+2017-08-01 11:51:20,663 - sessionClosed
+2017-08-01 11:51:45,851 - new client created
+2017-08-01 11:51:45,853 - Processing a MESSAGE_RECEIVED for session 11
+2017-08-01 11:51:45,854 - decoder.iosession:(0x0000000B: nio socket, server, /127.0.0.1:49767 => /127.0.0.1:9988)
+2017-08-01 11:52:46,535 - messageReceived
+2017-08-01 11:52:46,535 - server get msg:00<?xml version="1.0" encoding="GBK"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801115145</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:52:46,535 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:52:47,740 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:52:47,741 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:52:47,741 - counted a exceptionjava.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+2017-08-01 11:52:47,741 - sessionClosed
+2017-08-01 11:52:51,435 - new client created
+2017-08-01 11:52:51,437 - Processing a MESSAGE_RECEIVED for session 12
+2017-08-01 11:52:55,397 - decoder.iosession:(0x0000000C: nio socket, server, /127.0.0.1:49773 => /127.0.0.1:9988)
+2017-08-01 11:53:11,545 - messageReceived
+2017-08-01 11:53:11,545 - server get msg:00<?xml version="1.0" encoding="GBK"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801115251</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:53:11,546 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:53:12,270 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:53:12,271 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:53:12,273 - inputClosed
+2017-08-01 11:53:12,273 - sessionClosed
+2017-08-01 11:53:26,944 - new client created
+2017-08-01 11:53:26,945 - Processing a MESSAGE_RECEIVED for session 13
+2017-08-01 11:53:28,656 - decoder.iosession:(0x0000000D: nio socket, server, /127.0.0.1:49776 => /127.0.0.1:9988)
+2017-08-01 11:54:07,788 - messageReceived
+2017-08-01 11:54:07,789 - server get msg:00<?xml version="1.0" encoding="GBK"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801115326</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:54:07,789 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:54:07,829 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:54:07,832 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:54:07,833 - counted a exceptionjava.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+2017-08-01 11:54:07,833 - sessionClosed
+2017-08-01 11:54:36,110 - new client created
+2017-08-01 11:54:36,112 - Processing a MESSAGE_RECEIVED for session 14
+2017-08-01 11:54:38,109 - decoder.iosession:(0x0000000E: nio socket, server, /127.0.0.1:49788 => /127.0.0.1:9988)
+2017-08-01 11:55:29,204 - messageReceived
+2017-08-01 11:55:29,205 - server get msg:00<?xml version="1.0"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801115436</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:55:29,205 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:55:29,238 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:55:29,239 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:55:29,239 - counted a exceptionjava.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+2017-08-01 11:55:29,239 - sessionClosed
+2017-08-01 11:56:37,928 - new client created
+2017-08-01 11:56:37,930 - Processing a MESSAGE_RECEIVED for session 15
+2017-08-01 11:56:37,931 - decoder.iosession:(0x0000000F: nio socket, server, /127.0.0.1:49798 => /127.0.0.1:9988)
+2017-08-01 11:57:11,872 - messageReceived
+2017-08-01 11:57:11,873 - server get msg:00<?xml version="1.0"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801115637</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:57:11,873 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:57:11,918 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:57:11,918 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:57:11,919 - counted a exceptionjava.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+2017-08-01 11:57:11,919 - sessionClosed
+2017-08-01 11:57:23,060 - new client created
+2017-08-01 11:57:23,061 - Processing a MESSAGE_RECEIVED for session 16
+2017-08-01 11:57:23,061 - decoder.iosession:(0x00000010: nio socket, server, /127.0.0.1:49805 => /127.0.0.1:9988)
+2017-08-01 11:57:41,223 - messageReceived
+2017-08-01 11:57:41,223 - server get msg:00<?xml version="1.0"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801115723</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>����aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>����aaa</pay_acname>
+		<as_flag>����aaa</as_flag>
+		<as_acno>����aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>����aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>����aaa</rcv_bank_no>
+		<rcv_bank_name>����aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>����aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>����aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>����aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 11:57:41,223 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:57:41,259 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:57:41,259 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 11:57:41,262 - inputClosed
+2017-08-01 11:57:41,263 - sessionClosed
+2017-08-01 13:47:35,871 - Mina Server run done! on port:9988
+2017-08-01 13:48:51,457 - new client created
+2017-08-01 13:48:51,463 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-01 13:48:51,465 - decoder.iosession:(0x00000001: nio socket, server, /127.0.0.1:50431 => /127.0.0.1:9988)
+2017-08-01 13:49:33,041 - messageReceived
+2017-08-01 13:49:33,284 - server get msg:00<?xml version="1.0"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801134851</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>洪升aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>洪升aaa</pay_acname>
+		<as_flag>洪升aaa</as_flag>
+		<as_acno>洪升aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>洪升aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>洪升aaa</rcv_bank_no>
+		<rcv_bank_name>洪升aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>洪升aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>洪升aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>洪升aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 13:49:42,896 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 13:49:53,779 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 13:49:57,853 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 13:49:57,855 - counted a exceptionjava.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+2017-08-01 13:49:57,856 - sessionClosed
+2017-08-01 13:50:40,378 - new client created
+2017-08-01 13:50:40,383 - Processing a MESSAGE_RECEIVED for session 2
+2017-08-01 13:50:40,383 - decoder.iosession:(0x00000002: nio socket, server, /127.0.0.1:50449 => /127.0.0.1:9988)
+2017-08-01 13:50:40,384 - messageReceived
+2017-08-01 13:50:40,384 - server get msg:00<?xml version="1.0"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801135040</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>洪升aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>洪升aaa</pay_acname>
+		<as_flag>洪升aaa</as_flag>
+		<as_acno>洪升aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>洪升aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>洪升aaa</rcv_bank_no>
+		<rcv_bank_name>洪升aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>洪升aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>洪升aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>洪升aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 13:50:40,385 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 13:50:40,385 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 13:50:40,387 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 13:50:40,393 - inputClosed
+2017-08-01 13:50:40,394 - sessionClosed
+2017-08-01 13:54:01,467 - new client created
+2017-08-01 13:54:02,898 - Processing a MESSAGE_RECEIVED for session 3
+2017-08-01 13:54:02,898 - decoder.iosession:(0x00000003: nio socket, server, /127.0.0.1:50465 => /127.0.0.1:9988)
+2017-08-01 13:54:02,899 - messageReceived
+2017-08-01 13:54:02,899 - server get msg:00<?xml version="1.0"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801135353</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>洪升aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>洪升aaa</pay_acname>
+		<as_flag>洪升aaa</as_flag>
+		<as_acno>洪升aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>洪升aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>洪升aaa</rcv_bank_no>
+		<rcv_bank_name>洪升aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>洪升aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>洪升aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>洪升aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 13:54:02,900 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 13:54:02,900 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 13:54:02,901 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 13:54:06,367 - inputClosed
+2017-08-01 13:54:06,367 - sessionClosed
+2017-08-01 13:56:17,574 - new client created
+2017-08-01 13:56:19,327 - Processing a MESSAGE_RECEIVED for session 4
+2017-08-01 13:56:19,327 - decoder.iosession:(0x00000004: nio socket, server, /127.0.0.1:50748 => /127.0.0.1:9988)
+2017-08-01 13:56:19,328 - messageReceived
+2017-08-01 13:56:19,328 - server get msg:00<?xml version="1.0"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801135612</tr_acdt>
+		<tr_time></tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>洪升aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>洪升aaa</pay_acname>
+		<as_flag>洪升aaa</as_flag>
+		<as_acno>洪升aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>洪升aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>洪升aaa</rcv_bank_no>
+		<rcv_bank_name>洪升aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>洪升aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>洪升aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>洪升aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 13:56:19,329 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 13:56:19,329 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 13:56:19,330 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 13:56:22,603 - inputClosed
+2017-08-01 13:56:22,604 - sessionClosed
+2017-08-01 14:20:03,245 - new client created
+2017-08-01 14:20:24,771 - Processing a MESSAGE_RECEIVED for session 5
+2017-08-01 14:20:24,772 - decoder.iosession:(0x00000005: nio socket, server, /127.0.0.1:51128 => /127.0.0.1:9988)
+2017-08-01 14:20:24,774 - messageReceived
+2017-08-01 14:20:24,774 - server get msg:00<?xml version="1.0"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801</tr_acdt>
+		<tr_time>141949</tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>洪升aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>洪升aaa</pay_acname>
+		<as_flag>洪升aaa</as_flag>
+		<as_acno>洪升aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_acno>洪升aaa</rcv_acno>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>洪升aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>洪升aaa</rcv_bank_no>
+		<rcv_bank_name>洪升aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>洪升aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>洪升aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>洪升aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 14:20:24,774 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 14:20:24,775 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 14:20:24,775 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 14:20:54,789 - inputClosed
+2017-08-01 14:20:54,790 - sessionClosed
+2017-08-01 14:21:51,427 - new client created
+2017-08-01 14:21:52,921 - Processing a MESSAGE_RECEIVED for session 6
+2017-08-01 14:21:52,922 - decoder.iosession:(0x00000006: nio socket, server, /127.0.0.1:51138 => /127.0.0.1:9988)
+2017-08-01 14:21:52,923 - messageReceived
+2017-08-01 14:21:52,923 - server get msg:00<?xml version="1.0"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801</tr_acdt>
+		<tr_time>142145</tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>洪升aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>洪升aaa</pay_acname>
+		<as_flag>洪升aaa</as_flag>
+		<as_acno>洪升aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_acno>洪升aaa</rcv_acno>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>洪升aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>洪升aaa</rcv_bank_no>
+		<rcv_bank_name>洪升aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>洪升aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>洪升aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>洪升aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 14:21:52,923 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 14:21:52,923 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 14:21:52,924 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 14:21:57,861 - inputClosed
+2017-08-01 14:21:57,862 - sessionClosed
+2017-08-01 14:24:39,589 - new client created
+2017-08-01 14:24:40,548 - Processing a MESSAGE_RECEIVED for session 7
+2017-08-01 14:24:40,548 - decoder.iosession:(0x00000007: nio socket, server, /127.0.0.1:51156 => /127.0.0.1:9988)
+2017-08-01 14:24:40,549 - messageReceived
+2017-08-01 14:24:40,549 - server get msg:00<?xml version="1.0"?>
+<ap>
+	<head>
+		<tr_code>300001</tr_code>
+		<cms_corp_no></cms_corp_no>
+		<user_no></user_no>
+		<org_code></org_code>
+		<serial_no></serial_no>
+		<req_no></req_no>
+		<tr_acdt>20170801</tr_acdt>
+		<tr_time>142435</tr_time>
+        <channel>5</channel>
+		<sign></sign>
+		<file_flag>0</file_flag>
+		<reserved></reserved>
+	</head>
+	<body>
+		<pay_acno>洪升aaa</pay_acno>
+		<pay_cur_code>01</pay_cur_code>
+		<pay_acname>洪升aaa</pay_acname>
+		<as_flag>洪升aaa</as_flag>
+		<as_acno>洪升aaa</as_acno>
+		<as_acname></as_acname>
+		<pay_accaddr></pay_accaddr>
+		<cert_type></cert_type>
+		<cert_no></cert_no>
+		<rcv_acno>洪升aaa</rcv_acno>
+		<rcv_cur_code>01</rcv_cur_code>
+		<rcv_acname>洪升aaa</rcv_acname>
+		<rcv_accaddr></rcv_accaddr>
+		<rcv_bank_no>洪升aaa</rcv_bank_no>
+		<rcv_bank_name>洪升aaa</rcv_bank_name>
+		<amt>1</amt>
+		<bank_flag>洪升aaa</bank_flag>
+		<urgency_flag>0</urgency_flag>
+		<area_flag>洪升aaa</area_flag>
+		<bank_kind></bank_kind>
+		<purpose></purpose>
+		<postscript>洪升aaa</postscript>
+		<booking_flag></booking_flag>
+		<booking_date></booking_date>
+		<booking_time></booking_time>
+		<saverecvinfo_flag></saverecvinfo_flag>
+		<jfdk_flag></jfdk_flag>
+		<prv_flag></prv_flag>
+		<mobiles></mobiles>
+    </body>
+</ap>
+
+2017-08-01 14:24:40,549 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 14:24:40,549 - client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 14:24:40,550 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-01 14:24:42,458 - inputClosed
+2017-08-01 14:24:42,458 - sessionClosed

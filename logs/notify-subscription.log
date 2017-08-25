@@ -1,0 +1,605 @@
+2017-08-23 10:09:43,622 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>100943</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211009431503454183619</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 10:11:58,336 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-08-23 10:22:37,521 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>102237</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211022371503454957518</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 10:27:00,291 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>102700</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211027001503455220287</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 10:34:20,319 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-08-23 10:37:41,879 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>103741</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211037411503455861876</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 10:39:11,581 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>103911</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211039111503455951578</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 10:42:34,573 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>104234</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211042341503456154570</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 10:43:42,849 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>104342</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211043421503456222845</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 10:47:12,910 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>104712</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211047121503456432906</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 10:49:19,032 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-08-23 10:49:19,032 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-08-23 10:49:19,047 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-08-23 10:49:19,047 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-08-23 10:49:19,066 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-08-23 11:07:18,621 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>110718</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211107181503457638617</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 11:08:01,480 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>110801</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211108011503457681477</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 11:22:09,861 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>112209</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211122091503458529858</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 11:22:23,400 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 11:22:23,401 - decoder.iosession:(0x00000001: nio socket, client, /192.168.30.1:56004 => 0.0.0.0/0.0.0.0:8445)
+2017-08-23 11:22:23,404 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+org.apache.mina.filter.codec.ProtocolDecoderException: java.lang.NumberFormatException: For input string: "a0dfc" (Hexdump: 58 31 2E 30 61 30 64 66 63 52 32 39 31 30 33 39 39 39 39 39 39 39 39 30 30 78 78 78 78 78 78 78 78 30 30 30 30 30 30 30 30)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:240)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:542)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1300(DefaultIoFilterChain.java:48)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:947)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.messageReceived(IoFilterAdapter.java:109)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:542)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireMessageReceived(DefaultIoFilterChain.java:535)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:703)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NumberFormatException: For input string: "a0dfc"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at test.mina.bosc.BoscDecoder.doDecode(BoscDecoder.java:41)
+	at org.apache.mina.filter.codec.CumulativeProtocolDecoder.decode(CumulativeProtocolDecoder.java:181)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:231)
+	... 15 more
+2017-08-23 11:22:48,319 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>112248</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211122481503458568315</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 11:23:28,010 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 11:23:28,011 - decoder.iosession:(0x00000001: nio socket, client, /192.168.30.1:56027 => 0.0.0.0/0.0.0.0:8445)
+2017-08-23 11:23:28,014 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+org.apache.mina.filter.codec.ProtocolDecoderException: java.lang.NumberFormatException: For input string: "a0f08" (Hexdump: 58 31 2E 30 61 30 66 30 38 52 32 39 31 30 33 39 39 39 39 39 39 39 39 30 30 78 78 78 78 78 78 78 78 30 30 30 30 30 30 30 30)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:240)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:542)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1300(DefaultIoFilterChain.java:48)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:947)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.messageReceived(IoFilterAdapter.java:109)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:542)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireMessageReceived(DefaultIoFilterChain.java:535)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:703)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NumberFormatException: For input string: "a0f08"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at test.mina.bosc.BoscDecoder.doDecode(BoscDecoder.java:41)
+	at org.apache.mina.filter.codec.CumulativeProtocolDecoder.decode(CumulativeProtocolDecoder.java:181)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:231)
+	... 15 more
+2017-08-23 11:23:39,117 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>112339</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211123391503458619114</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 11:23:47,766 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 11:23:47,768 - decoder.iosession:(0x00000001: nio socket, client, /192.168.30.1:56058 => 0.0.0.0/0.0.0.0:8445)
+2017-08-23 11:26:59,497 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>112659</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211126591503458819494</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 11:27:09,242 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 11:27:09,244 - decoder.iosession:(0x00000001: nio socket, client, /192.168.30.1:56179 => 0.0.0.0/0.0.0.0:8445)
+2017-08-23 11:27:45,890 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>112745</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211127451503458865887</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 11:27:45,980 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 11:27:45,981 - decoder.iosession:(0x00000001: nio socket, client, /192.168.30.1:56202 => 0.0.0.0/0.0.0.0:8445)
+2017-08-23 11:28:50,504 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>112850</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211128501503458930501</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 11:28:50,568 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 11:28:50,569 - decoder.iosession:(0x00000001: nio socket, client, /192.168.30.1:56234 => 0.0.0.0/0.0.0.0:8445)
+2017-08-23 11:29:35,110 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>112935</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211129351503458975107</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 11:29:35,179 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 11:29:35,181 - decoder.iosession:(0x00000001: nio socket, client, /192.168.30.1:56261 => 0.0.0.0/0.0.0.0:8445)
+2017-08-23 11:30:01,356 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>113001</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211130011503459001352</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 11:31:51,774 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 11:31:51,775 - decoder.iosession:(0x00000001: nio socket, client, /192.168.30.1:56298 => 0.0.0.0/0.0.0.0:8445)
+2017-08-23 11:32:18,940 - bosc client eccode begin ==========X1.000747B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29103</InstructionCode><Date>20170821</Date><Time>113218</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211132181503459138937</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><BusModel><BankModOption>0</BankModOption></BusModel><BusReturnInfo><BusRtnCode>0000</BusRtnCode><BusRtnInfo>交易成功</BusRtnInfo></BusReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 11:32:19,019 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 11:32:19,020 - decoder.iosession:(0x00000001: nio socket, client, /192.168.30.1:56354 => 0.0.0.0/0.0.0.0:8445)
+2017-08-23 11:32:19,022 - getmsg:<?xml version="1.0" encoding="UTF-8"?>
+<Pub>
+    <Version>V1.0</Version>
+    <InstructionCode>29103</InstructionCode>
+    <Date>20170821</Date>
+    <Time>113218</Time>
+    <TradeSource></TradeSource>
+    <MarketCode></MarketCode>
+</Pub>
+<Serial>
+    <BankSerial>20178211132181503459138937</MarketCode>
+    <MarketSerial>0823000009553010</MarketSerial>
+</Serial>
+<ReturnInfo>
+    <RtnCode>0000</RtnCode>
+    <RtnInfo>交易成功</RtnInfo>
+</ReturnInfo>
+<SummaryInfo>
+    <Summary1></Summary1>
+    <Summary2></Summary2>
+</SummaryInfo>
+2017-08-23 11:33:49,380 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-08-23 11:33:49,380 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-08-23 11:33:49,381 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-08-23 15:08:14,882 - bosc client eccode begin ==========X1.000600B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29203</InstructionCode><Date>20170821</Date><Time>150814</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211508141503472094878</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><FileInfo><FileName>99999999_bTransfer_$.20170821</FileName><FileLength></FileLength></FileInfo><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 15:08:53,523 - bosc client eccode begin ==========X1.000600B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29203</InstructionCode><Date>20170821</Date><Time>150853</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211508531503472133520</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><FileInfo><FileName>99999999_bTransfer_$.20170821</FileName><FileLength></FileLength></FileInfo><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 15:17:38,194 - bosc client eccode begin ==========X1.000600B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29203</InstructionCode><Date>20170821</Date><Time>151738</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211517381503472658192</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><FileInfo><FileName>99999999_bTransfer_$.20170821</FileName><FileLength></FileLength></FileInfo><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 15:18:28,581 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 15:18:28,583 - decoder.iosession:(0x00000001: nio socket, client, /192.168.30.1:58310 => 0.0.0.0/0.0.0.0:8445)
+2017-08-23 15:18:28,585 - getmsg:<?xml version="1.0" encoding="UTF-8"?>
+<Pub>
+    <Version>V1.0</Version>
+    <InstructionCode>29203</InstructionCode>
+    <Date>20170821</Date>
+    <Time>151738</Time>
+    <TradeSource></TradeSource>
+    <MarketCode></MarketCode>
+</Pub>
+<Serial>
+    <BankSerial></MarketCode>
+    <MarketSerial>0823000009553077</MarketSerial>
+</Serial>
+<ReturnInfo>
+    <RtnCode>4095</RtnCode>
+    <RtnInfo>对账文件不存在</RtnInfo>
+</ReturnInfo>
+<MoneyKind>
+    <MoneyKind></MoneyKind>
+</MoneyKind>
+<SummaryInfo>
+    <Summary1></Summary1>
+    <Summary2></Summary2>
+</SummaryInfo>
+2017-08-23 15:22:53,121 - bosc client eccode begin ==========X1.000600B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>29203</InstructionCode><Date>20170821</Date><Time>152253</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211522531503472973118</BankSerial><MarketSerial>2017821103021001</MarketSerial></Serial><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><FileInfo><FileName>99999999_bTransfer_$.20170821</FileName><FileLength></FileLength></FileInfo><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 15:23:50,349 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 15:23:50,351 - decoder.iosession:(0x00000001: nio socket, client, /192.168.30.1:58374 => 0.0.0.0/0.0.0.0:8445)
+2017-08-23 15:23:50,353 - getmsg:<?xml version="1.0" encoding="UTF-8"?>
+<Pub>
+    <Version>V1.0</Version>
+    <InstructionCode>29203</InstructionCode>
+    <Date>20170821</Date>
+    <Time>152253</Time>
+    <TradeSource></TradeSource>
+    <MarketCode></MarketCode>
+</Pub>
+<Serial>
+    <BankSerial></MarketCode>
+    <MarketSerial>0823000009553079</MarketSerial>
+</Serial>
+<ReturnInfo>
+    <RtnCode>0000</RtnCode>
+    <RtnInfo></RtnInfo>
+</ReturnInfo>
+<MoneyKind>
+    <MoneyKind></MoneyKind>
+</MoneyKind>
+<SummaryInfo>
+    <Summary1></Summary1>
+    <Summary2></Summary2>
+</SummaryInfo>
+2017-08-23 15:24:17,165 - EXCEPTION, please implement test.mina.ClientMinaClientHander.exceptionCaught() for proper handling:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:317)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:45)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:683)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:659)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:648)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:68)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1120)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-08-23 18:04:12,061 - Mina Server run done! on port:47601
+2017-08-23 18:09:04,171 - new client created
+2017-08-23 18:09:16,772 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 18:09:16,774 - decoder.iosession:(0x00000001: nio socket, server, /127.0.0.1:61615 => /127.0.0.1:47601)
+2017-08-23 18:09:16,778 - counted a exceptionorg.apache.mina.filter.codec.ProtocolDecoderException: java.lang.NumberFormatException: For input string: "X1.000593R" (Hexdump: 58 31 2E 30 30 30 35 39 33 52 31 39 32 30 33 38 31 32 33 38 38 38 38 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D 22 31 2E 30 22 20 65 6E 63 6F 64 69 6E 67 3D 22 55 54 46 2D 38 22 3F 3E 0D 0A 3C 50 75 62 3E 0D 0A 20 20 20 20 3C 56 65 72 73 69 6F 6E 3E 56 31 2E 30 3C 2F 56 65 72 73 69 6F 6E 3E 0D 0A 20 20 20 20 3C 49 6E 73 74 72 75 63 74 69 6F 6E 43 6F 64 65 3E 31 39 32 30 33 3C 2F 49 6E 73 74 72 75 63 74 69 6F 6E 43 6F 64 65 3E 0D 0A 20 20 20 20 3C 44 61 74 65 3E 32 30 31 37 30 38 32 33 3C 2F 44 61 74 65 3E 0D 0A 20 20 20 20 3C 54 69 6D 65 3E 3C 2F 54 69 6D 65 3E 0D 0A 20 20 20 20 3C 45 6E 74 72 75 73 74 57 61 79 3E 3C 2F 45 6E 74 72 75 73 74 57 61 79 3E 0D 0A 20 20 20 20 3C 54 72 61 64 65 53 6F 75 72 63 65 3E 49 3C 2F 54 72 61 64 65 53 6F 75 72 63 65 3E 0D 0A 20 20 20 20 3C 4D 61 72 6B 65 74 43 6F 64 65 3E 38 31 32 33 38 38 38 38 3C 2F 4D 61 72 6B 65 74 43 6F 64 65 3E 0D 0A 3C 2F 50 75 62 3E 0D 0A 3C 53 65 72 69 61 6C 3E 0D 0A 09 3C 42 61 6E 6B 53 65 72 69 61 6C 3E 3C 2F 4D 61 72 6B 65 74 43 6F 64 65 3E 0D 0A 20 20 20 20 3C 4D 61 72 6B 65 74 53 65 72 69 61 6C 3E 32 33 35 35 33 31 33 35 3C 2F 4D 61 72 6B 65 74 53 65 72 69 61 6C 3E 0D 0A 3C 2F 53 65 72 69 61 6C 3E 0D 0A 3C 52 65 74 75 72 6E 49 6E 66 6F 3E 0D 0A 20 20 20 20 3C 52 74 6E 43 6F 64 65 3E 3C 2F 52 74 6E 43 6F 64 65 3E 0D 0A 20 20 20 20 3C 52 74 6E 49 6E 66 6F 3E 3C 2F 52 74 6E 49 6E 66 6F 3E 0D 0A 3C 2F 52 65 74 75 72 6E 49 6E 66 6F 3E 0D 0A 3C 4D 6F 6E 65 79 4B 69 6E 64 3E 0D 0A 20 20 20 20 3C 4D 6F 6E 65 79 4B 69 6E 64 3E 43 4E 59 3C 2F 4D 6F 6E 65 79 4B 69 6E 64 3E 0D 0A 3C 2F 4D 6F 6E 65 79 4B 69 6E 64 3E 0D 0A 3C 53 75 6D 6D 61 72 79 49 6E 66 6F 3E 0D 0A 20 20 20 20 3C 53 75 6D 6D 61 72 79 31 3E 3C 2F 53 75 6D 6D 61 72 79 31 3E 0D 0A 20 20 20 20 3C 53 75 6D 6D 61 72 79 32 3E 3C 2F 53 75 6D 6D 61 72 79 32 3E 0D 0A 3C 2F 53 75 6D 6D 61 72 79 49 6E 66 6F 3E)
+2017-08-23 18:10:35,959 - inputClosed
+2017-08-23 18:10:35,961 - sessionClosed
+2017-08-23 18:17:59,104 - new client created
+2017-08-23 18:18:00,419 - Processing a MESSAGE_RECEIVED for session 2
+2017-08-23 18:18:00,419 - decoder.iosession:(0x00000002: nio socket, server, /127.0.0.1:61723 => /127.0.0.1:47601)
+2017-08-23 18:18:00,420 - counted a exceptionorg.apache.mina.filter.codec.ProtocolDecoderException: java.lang.NumberFormatException: For input string: "X1.000593R" (Hexdump: 58 31 2E 30 30 30 35 39 33 52 31 39 32 30 33 38 31 32 33 38 38 38 38 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D 22 31 2E 30 22 20 65 6E 63 6F 64 69 6E 67 3D 22 55 54 46 2D 38 22 3F 3E 0D 0A 3C 50 75 62 3E 0D 0A 20 20 20 20 3C 56 65 72 73 69 6F 6E 3E 56 31 2E 30 3C 2F 56 65 72 73 69 6F 6E 3E 0D 0A 20 20 20 20 3C 49 6E 73 74 72 75 63 74 69 6F 6E 43 6F 64 65 3E 31 39 32 30 33 3C 2F 49 6E 73 74 72 75 63 74 69 6F 6E 43 6F 64 65 3E 0D 0A 20 20 20 20 3C 44 61 74 65 3E 32 30 31 37 30 38 32 33 3C 2F 44 61 74 65 3E 0D 0A 20 20 20 20 3C 54 69 6D 65 3E 3C 2F 54 69 6D 65 3E 0D 0A 20 20 20 20 3C 45 6E 74 72 75 73 74 57 61 79 3E 3C 2F 45 6E 74 72 75 73 74 57 61 79 3E 0D 0A 20 20 20 20 3C 54 72 61 64 65 53 6F 75 72 63 65 3E 49 3C 2F 54 72 61 64 65 53 6F 75 72 63 65 3E 0D 0A 20 20 20 20 3C 4D 61 72 6B 65 74 43 6F 64 65 3E 38 31 32 33 38 38 38 38 3C 2F 4D 61 72 6B 65 74 43 6F 64 65 3E 0D 0A 3C 2F 50 75 62 3E 0D 0A 3C 53 65 72 69 61 6C 3E 0D 0A 09 3C 42 61 6E 6B 53 65 72 69 61 6C 3E 3C 2F 4D 61 72 6B 65 74 43 6F 64 65 3E 0D 0A 20 20 20 20 3C 4D 61 72 6B 65 74 53 65 72 69 61 6C 3E 32 33 35 35 33 31 33 37 3C 2F 4D 61 72 6B 65 74 53 65 72 69 61 6C 3E 0D 0A 3C 2F 53 65 72 69 61 6C 3E 0D 0A 3C 52 65 74 75 72 6E 49 6E 66 6F 3E 0D 0A 20 20 20 20 3C 52 74 6E 43 6F 64 65 3E 3C 2F 52 74 6E 43 6F 64 65 3E 0D 0A 20 20 20 20 3C 52 74 6E 49 6E 66 6F 3E 3C 2F 52 74 6E 49 6E 66 6F 3E 0D 0A 3C 2F 52 65 74 75 72 6E 49 6E 66 6F 3E 0D 0A 3C 4D 6F 6E 65 79 4B 69 6E 64 3E 0D 0A 20 20 20 20 3C 4D 6F 6E 65 79 4B 69 6E 64 3E 43 4E 59 3C 2F 4D 6F 6E 65 79 4B 69 6E 64 3E 0D 0A 3C 2F 4D 6F 6E 65 79 4B 69 6E 64 3E 0D 0A 3C 53 75 6D 6D 61 72 79 49 6E 66 6F 3E 0D 0A 20 20 20 20 3C 53 75 6D 6D 61 72 79 31 3E 3C 2F 53 75 6D 6D 61 72 79 31 3E 0D 0A 20 20 20 20 3C 53 75 6D 6D 61 72 79 32 3E 3C 2F 53 75 6D 6D 61 72 79 32 3E 0D 0A 3C 2F 53 75 6D 6D 61 72 79 49 6E 66 6F 3E)
+2017-08-23 18:18:21,746 - inputClosed
+2017-08-23 18:18:21,747 - sessionClosed
+2017-08-23 18:19:05,469 - Mina Server run done! on port:47601
+2017-08-23 18:20:04,781 - new client created
+2017-08-23 18:20:06,333 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 18:20:06,334 - decoder.iosession:(0x00000001: nio socket, server, /127.0.0.1:62039 => /127.0.0.1:47601)
+2017-08-23 18:20:06,337 - getmsg:<?xml version="1.0" encoding="UTF-8"?>
+<Pub>
+    <Version>V1.0</Version>
+    <InstructionCode>19203</InstructionCode>
+    <Date>20170823</Date>
+    <Time></Time>
+    <EntrustWay></EntrustWay>
+    <TradeSource>I</TradeSource>
+    <MarketCode>81238888</MarketCode>
+</Pub>
+<Serial>
+	<BankSerial></MarketCode>
+    <MarketSerial>23553139</MarketSerial>
+</Serial>
+<ReturnInfo>
+    <RtnCode></RtnCode>
+    <RtnInfo></RtnInfo>
+</ReturnInfo>
+<MoneyKind>
+    <MoneyKind>CNY</MoneyKind>
+</MoneyKind>
+<SummaryInfo>
+    <Summary1></Summary1>
+    <Summary2></Summary2>
+</SummaryInfo>
+2017-08-23 18:20:06,338 - messageReceived
+2017-08-23 18:20:06,338 - server get msg:<?xml version="1.0" encoding="UTF-8"?>
+<Pub>
+    <Version>V1.0</Version>
+    <InstructionCode>19203</InstructionCode>
+    <Date>20170823</Date>
+    <Time></Time>
+    <EntrustWay></EntrustWay>
+    <TradeSource>I</TradeSource>
+    <MarketCode>81238888</MarketCode>
+</Pub>
+<Serial>
+	<BankSerial></MarketCode>
+    <MarketSerial>23553139</MarketSerial>
+</Serial>
+<ReturnInfo>
+    <RtnCode></RtnCode>
+    <RtnInfo></RtnInfo>
+</ReturnInfo>
+<MoneyKind>
+    <MoneyKind>CNY</MoneyKind>
+</MoneyKind>
+<SummaryInfo>
+    <Summary1></Summary1>
+    <Summary2></Summary2>
+</SummaryInfo>
+2017-08-23 18:20:06,339 - =====================return msg:000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-23 18:20:06,342 - bosc client eccode begin ==========000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-23 18:20:06,347 - messageSent000000041900<ap><head><tr_code>交易码</tr_code><cms_corp_no>企业代码</cms_corp_no><user_no>操作员号</user_no><org_code>机构号</org_code><serial_no>交易序号</serial_no><req_no>发起方序号</req_no><tr_acdt>交易日期</tr_acdt><tr_time>交易时间</tr_time><succ_flag>1</succ_flag><ret_info>返回信息</ret_info><ret_code>9999</ret_code><ext_info>返回扩展信息</ext_info><file_flag>文件标识</file_flag><reserved>保留位</reserved></head></ap>
+2017-08-23 18:20:45,683 - inputClosed
+2017-08-23 18:20:45,683 - sessionClosed
+2017-08-23 18:21:19,410 - Mina Server run done! on port:47601
+2017-08-23 18:21:30,554 - new client created
+2017-08-23 18:21:30,558 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 18:21:30,560 - decoder.iosession:(0x00000001: nio socket, server, /127.0.0.1:62064 => /127.0.0.1:47601)
+2017-08-23 18:21:30,562 - getmsg:<?xml version="1.0" encoding="UTF-8"?>
+<Pub>
+    <Version>V1.0</Version>
+    <InstructionCode>19203</InstructionCode>
+    <Date>20170823</Date>
+    <Time></Time>
+    <EntrustWay></EntrustWay>
+    <TradeSource>I</TradeSource>
+    <MarketCode>81238888</MarketCode>
+</Pub>
+<Serial>
+	<BankSerial></MarketCode>
+    <MarketSerial>23553140</MarketSerial>
+</Serial>
+<ReturnInfo>
+    <RtnCode></RtnCode>
+    <RtnInfo></RtnInfo>
+</ReturnInfo>
+<MoneyKind>
+    <MoneyKind>CNY</MoneyKind>
+</MoneyKind>
+<SummaryInfo>
+    <Summary1></Summary1>
+    <Summary2></Summary2>
+</SummaryInfo>
+2017-08-23 18:21:30,563 - bosc server get msg:<?xml version="1.0" encoding="UTF-8"?>
+<Pub>
+    <Version>V1.0</Version>
+    <InstructionCode>19203</InstructionCode>
+    <Date>20170823</Date>
+    <Time></Time>
+    <EntrustWay></EntrustWay>
+    <TradeSource>I</TradeSource>
+    <MarketCode>81238888</MarketCode>
+</Pub>
+<Serial>
+	<BankSerial></MarketCode>
+    <MarketSerial>23553140</MarketSerial>
+</Serial>
+<ReturnInfo>
+    <RtnCode></RtnCode>
+    <RtnInfo></RtnInfo>
+</ReturnInfo>
+<MoneyKind>
+    <MoneyKind>CNY</MoneyKind>
+</MoneyKind>
+<SummaryInfo>
+    <Summary1></Summary1>
+    <Summary2></Summary2>
+</SummaryInfo>
+2017-08-23 18:21:30,566 - bosc client eccode begin ==========X1.000686B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>19203</InstructionCode><Date>20170821</Date><Time>182130</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211821301503483690564</BankSerial><MarketSerial>20178211821301503483690564</MarketSerial></Serial><ReturnInfo><RtnCode>0000</RtnCode><RtnInfo>交易成功</RtnInfo></ReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 18:21:30,570 - messageSentX1.000686B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>19203</InstructionCode><Date>20170821</Date><Time>182130</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211821301503483690564</BankSerial><MarketSerial>20178211821301503483690564</MarketSerial></Serial><ReturnInfo><RtnCode>0000</RtnCode><RtnInfo>交易成功</RtnInfo></ReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 18:21:30,572 - inputClosed
+2017-08-23 18:21:30,572 - sessionClosed
+2017-08-23 18:26:45,758 - Mina Server run done! on port:47601
+2017-08-23 18:27:15,558 - new client created
+2017-08-23 18:27:15,562 - Processing a MESSAGE_RECEIVED for session 1
+2017-08-23 18:27:15,563 - decoder.iosession:(0x00000001: nio socket, server, /127.0.0.1:62128 => /127.0.0.1:47601)
+2017-08-23 18:27:15,566 - getmsg:X1.000593R1920381238888000000000000000000<?xml version="1.0" encoding="UTF-8"?>
+<Pub>
+    <Version>V1.0</Version>
+    <InstructionCode>19203</InstructionCode>
+    <Date>20170823</Date>
+    <Time></Time>
+    <EntrustWay></EntrustWay>
+    <TradeSource>I</TradeSource>
+    <MarketCode>81238888</MarketCode>
+</Pub>
+<Serial>
+	<BankSerial></MarketCode>
+    <MarketSerial>23553142</MarketSerial>
+</Serial>
+<ReturnInfo>
+    <RtnCode></RtnCode>
+    <RtnInfo></RtnInfo>
+</ReturnInfo>
+<MoneyKind>
+    <MoneyKind>CNY</MoneyKind>
+</MoneyKind>
+<SummaryInfo>
+    <Summary1></Summary1>
+    <Summary2></Summary2>
+</SummaryInfo>                                                                                                                                                                                                                                                                                                                                                                                                      
+2017-08-23 18:27:15,566 - getmsg:<?xml version="1.0" encoding="UTF-8"?>
+<Pub>
+    <Version>V1.0</Version>
+    <InstructionCode>19203</InstructionCode>
+    <Date>20170823</Date>
+    <Time></Time>
+    <EntrustWay></EntrustWay>
+    <TradeSource>I</TradeSource>
+    <MarketCode>81238888</MarketCode>
+</Pub>
+<Serial>
+	<BankSerial></MarketCode>
+    <MarketSerial>23553142</MarketSerial>
+</Serial>
+<ReturnInfo>
+    <RtnCode></RtnCode>
+    <RtnInfo></RtnInfo>
+</ReturnInfo>
+<MoneyKind>
+    <MoneyKind>CNY</MoneyKind>
+</MoneyKind>
+<SummaryInfo>
+    <Summary1></Summary1>
+    <Summary2></Summary2>
+</SummaryInfo>
+2017-08-23 18:27:15,567 - bosc server get msg:<?xml version="1.0" encoding="UTF-8"?>
+<Pub>
+    <Version>V1.0</Version>
+    <InstructionCode>19203</InstructionCode>
+    <Date>20170823</Date>
+    <Time></Time>
+    <EntrustWay></EntrustWay>
+    <TradeSource>I</TradeSource>
+    <MarketCode>81238888</MarketCode>
+</Pub>
+<Serial>
+	<BankSerial></MarketCode>
+    <MarketSerial>23553142</MarketSerial>
+</Serial>
+<ReturnInfo>
+    <RtnCode></RtnCode>
+    <RtnInfo></RtnInfo>
+</ReturnInfo>
+<MoneyKind>
+    <MoneyKind>CNY</MoneyKind>
+</MoneyKind>
+<SummaryInfo>
+    <Summary1></Summary1>
+    <Summary2></Summary2>
+</SummaryInfo>
+2017-08-23 18:27:15,570 - bosc client eccode begin ==========X1.000686B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>19203</InstructionCode><Date>20170821</Date><Time>182715</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211827151503484035567</BankSerial><MarketSerial>20178211827151503484035567</MarketSerial></Serial><ReturnInfo><RtnCode>0000</RtnCode><RtnInfo>交易成功</RtnInfo></ReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 18:27:15,575 - messageSentX1.000686B291031111111100xxxxxxxx00000000<?xml version="1.0" encoding="UTF-8"?><root><Pub><Version>V1.0</Version><InstructionCode>19203</InstructionCode><Date>20170821</Date><Time>182715</Time><TradeSource>B</TradeSource><MarketCode>0000999</MarketCode></Pub><Serial><BankSerial>20178211827151503484035567</BankSerial><MarketSerial>20178211827151503484035567</MarketSerial></Serial><ReturnInfo><RtnCode>0000</RtnCode><RtnInfo>交易成功</RtnInfo></ReturnInfo><MoneyKind><MoneyKind>0</MoneyKind><CashExCode></CashExCode></MoneyKind><Transfer><TransferAmount>100000</TransferAmount><CurrentBalance></CurrentBalance></Transfer><SummaryInfo><Summary1>$!{Summary1}</Summary1><Summary2>$!{Summary2}</Summary2></SummaryInfo></root>
+
+2017-08-23 18:27:15,580 - inputClosed
+2017-08-23 18:27:15,581 - sessionClosed
